@@ -1,0 +1,2820 @@
+TERM,Spanish,G&N1710,S&G435,Webster83,CCWmeanFamiliarity
+able,capaz,0,0,0,0.86
+abnormal,anormal,0,0,0,0.95
+abrasive,abrasivo,1,0,0,0.82
+abrupt,abrupto,1,1,0,0.73
+absent-minded,despistado,1,1,0,0.84
+abstemious,abstemio,0,0,0,0.33
+abstinent,abstinente,1,0,0,0.79
+abstract,abstracto,1,0,0,0.74
+abstruse,abstruso,0,0,0,0.39
+absurd,absurdo,0,0,0,0.85
+abusive,abusivo,1,1,1,0.96
+academic,académico,0,0,0,0.36
+acceptant,aceptante,1,0,0,0.49
+accepting,aceptar,0,0,0,0.91
+accessible,accesible,1,0,0,0.91
+accommodating,servicial,1,1,0,0.92
+accomplished,logrado,1,0,0,0.9
+accountable,explicable,0,0,0,0.82
+accurate,preciso,1,0,0,0.8
+accusing,acusando,0,0,0,0.64
+acerbic,acerbo,0,0,0,0.37
+acid,ácido,1,0,0,0.34
+acquiescent,condescendiente,1,0,0,0.62
+acquisitive,codicioso,1,0,0,0.44
+acrid,acre,0,0,0,0.39
+acrimonious,mordaz,0,0,0,0.45
+active,activo,1,1,1,0.96
+adaptable,adaptable,1,1,0,0.91
+adaptive,adaptado,1,0,0,0.96
+adjustable,ajustable,1,0,0,0.93
+admirable,admirable,0,0,0,0.94
+admonitory,admonitorio,0,0,0,0.51
+adorable,adorable,0,0,0,0.88
+adroit,hábil,0,0,0,0.32
+adulatory,adulador,0,0,0,0.24
+adulterous,adúltero,1,0,0,0.94
+adventurous,aventurero,1,1,1,0.96
+adversarial,adversario,0,0,0,0.85
+aesthetic,estético,0,0,0,0.83
+affable,afable,1,0,0,0.66
+affected,afectado,1,0,0,0.14
+affectionate,cariñoso,1,1,1,0.95
+affirmative,afirmativo,1,0,0,0.88
+afraid,temeroso,0,0,0,0.92
+aggravating,agravante,0,0,0,0.92
+aggressive,agresivo,1,1,1,0.89
+agitable,agitable,1,0,0,0.74
+agitated,agitado,0,0,0,0.77
+agitative,agitado,1,0,0,0.8
+agreeable,agradable,1,1,0,0.58
+aimful,objetivo,1,0,0,0.84
+aimless,sin objetivo,1,1,0,0.92
+airy,aireado,0,0,0,0.67
+alarmable,alarmable,1,0,0,0.89
+alcoholic,alcohólico,0,0,0,1
+alert,alerta,1,1,0,0.81
+alive,viva,0,0,0,0.69
+alone,solo,0,0,0,0.94
+aloof,a distancia,1,1,0,0.79
+altruistic,altruista,1,1,0,0.68
+amazing,increíble,0,0,0,0.85
+ambiguous,ambiguo,0,0,0,0.67
+ambitious,ambicioso,1,1,1,0.93
+ambivalent,ambivalente,0,0,0,0.59
+amenable,dócil,0,0,0,0.72
+amiable,amable,1,1,0,0.74
+amicable,amistoso,1,0,0,0.81
+amorous,amoroso,1,0,0,0.83
+amusing,divertido,0,0,0,0.62
+analytical,analítico,1,1,0,0.91
+anarchistic,anarquista,0,0,0,0.92
+anecdotal,anecdótico,0,0,0,0.71
+angelic,angelical,1,0,0,0.9
+angry,enfadado,0,0,0,0.83
+animated,animado,1,1,0,0.77
+annoyed,molesto,0,0,0,0.94
+annoying,molesto,0,0,1,0.99
+antagonistic,antagonista,1,1,0,0.72
+antagonizing,antagonista,0,0,0,0.9
+anticipative,anticipativo,1,0,0,0.88
+antisocial,antisocial,1,0,0,0.54
+anxious,ansioso,1,1,1,0.93
+apathetic,apático,1,1,0,0.88
+aphoristic,aforístico,0,0,0,0.28
+apolitical,apolítico,0,0,0,0.79
+apologetic,apologético,0,0,0,0.85
+appealing,atractivo,0,0,0,0.91
+appeasing,apaciguador,0,0,0,0.81
+appreciated,apreciado,0,0,0,0.6
+appreciative,agradecido,1,0,0,0.92
+apprehensive,aprensivo,0,0,0,0.84
+approachable,accesible,1,0,0,0.92
+arbitrary,arbitrario,1,0,0,0.53
+arbitrative,arbitrario,1,0,0,0.66
+ardent,ardiente,0,0,0,0.51
+argumentative,discutidor,1,1,0,0.83
+aristocratic,aristocrático,1,0,0,0.77
+arrogant,arrogante,1,0,0,0.9
+artful,ingenioso,0,0,0,0.58
+articulate,articular,1,1,0,0.95
+artificial,artificial,0,0,0,0.73
+artistic,artístico,1,1,1,0.94
+artless,simple,0,0,0,0.13
+artsy,artístico,0,0,0,0.93
+ascendant,ascendente,1,0,0,0.42
+ascetic,ascético,0,0,0,0.17
+ashamed,avergonzado,0,0,0,0.94
+asocial,asocial,1,0,0,0.92
+assertive,positivo,1,1,0,0.91
+assiduous,asiduo,0,0,0,0.16
+assuming,asumiendo,0,0,0,0.45
+assured,seguro,1,1,0,0.9
+assuring,asegurando,0,0,0,0.87
+astute,astuto,1,0,0,0.64
+atheistic,ateo,0,0,0,0.98
+athletic,atlético,0,0,0,0.94
+attention-seeking,búsqueda de atención,0,0,0,0.86
+attentive,atento,0,0,0,0.73
+attractive,atractivo,0,0,0,0.91
+audacious,audaz,1,0,0,0.78
+austere,austero,1,0,0,0.58
+authentic,auténtico,0,0,0,0.96
+authoritarian,autoritario,0,0,0,0.94
+authoritative,autoritario,1,0,0,0.68
+autocratic,autocrático,1,0,0,0.61
+autonomous,autónomo,1,1,0,0.76
+avaricious,avaro,0,0,0,0.48
+average,promedio,0,0,0,0.94
+awake,despierto,0,0,0,0.82
+aware,consciente,0,0,0,0.86
+aweless,impávido,1,0,0,0.57
+awesome,increíble,0,0,0,0.93
+awful,horrible,0,0,0,0.76
+awkward,incómodo,1,0,0,0.82
+babyish,infantil,0,0,0,0.97
+backbiting,murmuración,0,0,0,0.56
+bad,malo,0,0,0,0.98
+baiting,cebo,0,0,0,0.76
+baleful,funesto,0,0,0,0.25
+balky,reacio,1,0,0,0.44
+bashful,tímido,1,1,0,0.85
+bearish,osuno,0,0,0,0.64
+beautiful,hermosa,0,0,0,0.89
+bedraggled,manchado de barro,0,0,0,0.66
+believable,creíble,0,0,0,0.85
+bellicose,belicoso,0,0,0,0.34
+belligerent,beligerante,1,1,0,0.81
+bendable,flexible,1,0,0,0.87
+beneficent,benéfico,1,0,0,0.67
+benevolent,benevolente,1,1,0,0.63
+benign,benigno,0,0,0,0.76
+berating,reprender,0,0,0,0.91
+bestial,bestial,0,0,0,0.84
+bewildered,desconcertado,0,0,0,0.84
+biased,tendencioso,1,0,0,0.88
+big,grande,0,0,0,0.16
+big-headed,engreído,1,0,0,0.84
+big-hearted,gran corazón,1,0,0,0.73
+big-mouthed,hablador,1,0,0,0.8
+bigoted,fanático,1,1,0,0.74
+bilious,bilioso,0,0,0,0.3
+bitter,amargo,1,1,0,0.59
+bizarre,extraño,0,0,0,0.89
+blaming,culpar,0,0,0,0.91
+bland,amable,1,1,0,0.86
+blasé,hastiado,1,0,0,0.66
+blasphemous,blasfemo,1,0,0,0.82
+bleak,desolado,0,0,0,0.8
+blind,ciego,0,0,0,0.99
+blithe,alegre,0,0,0,0.35
+blunt,desafilado,1,0,0,0.98
+blunt-witted,torpe,1,0,0,0.39
+blustery,tempestuoso,1,0,0,0.49
+boastful,jactancioso,1,1,0,0.94
+boastless,presumido,1,0,0,0.48
+boisterous,bullicioso,1,1,0,0.89
+bold,negrita,1,1,0,0.9
+bombastic,rimbombante,0,0,0,0.44
+bookish,libresco,1,0,0,0.85
+boorish,grosero,1,0,0,0.63
+boozy,borracho,0,0,0,0.95
+bored,aburrido,0,0,0,0.86
+boring,aburrido,0,0,0,0.98
+bossy,mandón,1,1,1,0.92
+bountiful,abundante,1,0,0,0.74
+bourgeois,burgués,0,0,0,0.61
+boyish,infantil,1,0,0,0.98
+bragging,fanfarronería,0,0,0,0.82
+brainless,estúpido,0,0,0,0.9
+brainy,inteligente,1,0,0,0.96
+brash,temerario,1,0,0,0.75
+brave,Bravo,1,1,1,0.98
+brawling,pelea,0,0,0,0.86
+brawlsome,bravucón,1,0,0,0.87
+brazen,descarado,1,0,0,0.92
+breathless,jadeante,0,0,0,0.89
+breezy,ventoso,1,0,0,0.58
+bright,brillante,1,1,0,0.9
+bright-eyed,ojos brillantes,0,0,0,0.71
+brilliant,brillante,0,0,0,0.83
+brisk,enérgico,1,0,0,0.78
+bristling,erizado,0,0,0,0.47
+bristly,erizado,1,0,0,0.56
+broad-minded,tolerante,1,0,0,0.79
+broad-spoken,hablado,1,0,0,0.48
+broken,roto,0,0,0,0.38
+brooding,inquietante,0,0,0,0.8
+broody,clueca,1,0,0,0.64
+brotherly,fraternal,0,0,0,0.65
+browbeating,intimidando,0,0,0,0.7
+brusque,brusco,1,0,0,0.53
+brutal,brutal,1,0,0,0.96
+brutish,brutal,0,0,0,0.76
+bubbly,burbujeante,1,0,0,0.63
+buffoonish,bufón,0,0,0,0.88
+bullheaded,obstinado,1,1,0,0.92
+bullish,alcista,1,0,0,0.66
+bullying,intimidación,1,0,0,0.93
+buoyant,boyante,1,0,0,0.63
+buoying,flotar,0,0,0,0.5
+bureaucratic,burocrático,0,0,0,0.7
+burned-out,quemado,0,0,0,0.95
+businesslike,serio,1,0,0,0.77
+busy,ocupado,0,0,0,0.91
+busyish,ocupado,1,0,0,0.44
+cagey,cauteloso,1,0,0,0.61
+cajoling,engatusar,0,0,0,0.61
+calculable,calculable,1,0,0,0.21
+calculating,calculador,1,0,0,0.7
+callous,calloso,1,1,0,0.62
+callow,inexperto,0,0,0,0.25
+calm,calma,1,0,1,0.81
+calming,calmante,0,0,0,0.98
+candid,sincero,1,1,0,0.79
+canny,astuto,1,0,0,0.58
+cantankerous,Cascarrabias,1,0,0,0.68
+capable,capaz,1,0,0,0.88
+capricious,caprichoso,1,0,0,0.48
+carefree,despreocupado,1,1,0,0.92
+careful,Cuidado,1,1,0,0.87
+careless,descuidado,1,1,0,0.86
+careworn,agobiado de preocupaciones,1,0,0,0.51
+caring,cuidando,0,0,0,0.95
+casual,casual,1,1,0,0.71
+catty,malicioso,1,0,0,0.57
+caustic,cáustico,1,0,0,0.66
+cautionary,advertido,0,0,0,0.85
+cautious,cauteloso,1,1,1,0.95
+cavalier,caballero,1,0,0,0.5
+censorial,censorial,1,0,0,0.69
+censorious,censurador,0,0,0,0.41
+cerebral,cerebral,1,0,0,0.64
+ceremonious,ceremonioso,1,0,0,0.63
+certain,cierto,1,0,0,0.9
+challenging,desafiante,0,0,0,0.84
+chameleonlike,camaleón,0,0,0,0.8
+changeable,cambiable,1,0,0,0.82
+changeless,invariable,1,0,0,0.66
+charismatic,carismático,0,0,0,0.83
+charitable,Caritativo,1,1,0,0.94
+charming,encantador,0,0,1,0.95
+chaste,casto,1,0,0,0.74
+chattering,parloteo,0,0,0,0.94
+chatty,hablador,1,0,0,0.96
+chauvinistic,chauvinista,0,0,0,0.77
+cheap,barato,0,0,0,0.95
+cheeky,fresco,0,0,0,0.45
+cheerful,alegre,1,1,1,0.97
+cheerless,triste,0,0,0,0.47
+cheery,alegre,0,0,0,0.97
+cheesy,caseoso,0,0,0,0.57
+cherubic,querúbico,1,0,0,0.78
+chic,elegante,1,0,0,0.9
+childish,infantil,1,0,0,0.92
+childlike,infantil,1,0,0,0.74
+chipper,alegre,1,0,0,0.8
+chitchatty,chitchatty,1,0,0,0.68
+chivalrous,caballerosidad,1,0,0,0.82
+choosy,melindroso,1,0,0,0.78
+chubby,regordete,0,0,0,0.96
+chummy,familiar,0,0,0,0.84
+churlish,poco afable,0,0,0,0.57
+circumspect,circunspecto,1,0,0,0.42
+civil,civil,1,0,0,0.78
+civilized,civilizado,1,0,0,0.81
+clairvoyant,clarividente,1,0,0,0.81
+clandestine,clandestino,0,0,0,0.61
+clannish,exclusivista,1,0,0,0.78
+classy,de buen tono,0,0,0,1
+clean,limpio,0,0,0,0.9
+clear-cut,claro,1,0,0,0.9
+clear-eyed,de ojos claros,0,0,0,0.84
+clear-sighted,clarividente,1,0,0,0.91
+clear-thinking,pensamiento claro,1,0,0,0.89
+clearheaded,lúcido,1,0,0,0.64
+clever,inteligente,1,1,0,0.86
+clinging,pegajoso,0,0,0,0.98
+clingy,pegajoso,1,0,0,0.92
+cliquish,exclusivista,1,0,0,0.85
+close-fisted,tacaño,1,0,0,0.66
+close-mouthed,con la boca cerrada,1,0,0,0.94
+closed-minded,de mente cerrada,1,0,0,0.95
+clownish,clownesco,1,0,0,0.92
+cloying,empalagoso,0,0,0,0.51
+clubby,clubby,0,0,0,0.4
+clumsy,torpe,1,0,0,0.96
+coarse,grueso,1,1,0,0.5
+cocksure,presumido,0,0,0,0.8
+cocky,engreído,1,0,0,0.92
+coercing,coaccionando,0,0,0,0.86
+coercive,coactivo,1,0,0,0.89
+cognitive,cognitivo,0,0,0,0.64
+coherent,coherente,1,0,0,0.63
+cold,frío,1,1,0,0.8
+cold-blooded,sangre fría,0,0,0,0.35
+cold-hearted,corazón frío,1,0,0,0.95
+colorful,vistoso,0,0,0,0.63
+combative,combativo,1,1,0,0.94
+comfortable,cómodo,0,0,0,0.8
+comical,cómico,0,0,0,0.97
+commandeering,expropiación,0,0,0,0.74
+commanding,dominante,0,0,0,0.9
+communicative,comunicativo,1,1,0,0.79
+companionable,sociable,1,0,0,0.79
+compassionate,compasivo,1,1,0,0.99
+compassionless,sin compasión,1,0,0,0.85
+compatible,compatible,0,0,0,0.93
+competent,competente,0,0,0,0.91
+competitive,competitivo,0,1,0,0.94
+competitory,competitivo,1,0,0,0.86
+complacent,suficiente,1,0,0,0.28
+complaining,quejumbroso,1,0,0,0.81
+complaisant,cortés,1,0,0,0.57
+complex,complejo,1,1,0,0.95
+compliant,obediente,1,1,0,0.9
+complicated,Complicado,1,0,0,0.7
+complimentary,Complementario,1,0,0,0.83
+complying,cumpliendo,0,0,0,0.93
+composed,compuesto,0,0,0,0.76
+comprehensive,exhaustivo,0,0,0,0.78
+compulsive,compulsivo,1,1,1,0.92
+comradely,amistoso,1,0,0,0.82
+concealing,ocultando,0,0,0,0.99
+conceding,concediendo,0,0,0,0.59
+conceited,engreído,1,1,0,0.88
+conceitless,vanidoso,1,0,0,0.14
+conceptual,conceptual,0,0,0,0.8
+concerned,preocupado,0,0,0,0.64
+conciliatory,conciliador,1,0,0,0.79
+concise,conciso,1,1,0,0.85
+condemning,condenando,0,0,0,0.83
+condescending,condescendiente,1,1,0,0.6
+confident,seguro,1,1,1,0.97
+conforming,conforme,0,0,0,0.89
+confusable,confuso,1,0,0,0.83
+confused,confundido,1,0,0,0.93
+confusing,confuso,0,0,0,0.71
+congenial,agradable,1,0,0,0.59
+conniving,intrigante,0,0,0,0.9
+conscienceless,sin conciencia,1,0,0,0.75
+conscientious,concienzudo,1,1,0,0.8
+conservative,conservador,1,1,1,0.78
+considerate,considerado,1,1,0,0.9
+consistent,consistente,1,1,0,0.69
+consolatory,consolador,1,0,0,0.87
+consoling,consolador,0,0,0,0.89
+conspicuous,conspicuo,0,0,0,0.48
+conspiring,conspirando,0,0,0,0.94
+constant,constante,1,0,0,0.68
+constrained,constreñido,1,0,0,0.65
+constructive,constructivo,1,0,0,0.8
+contained,contenido,0,0,0,0.96
+contemplative,contemplativo,1,1,0,0.72
+contemptuous,desdeñoso,0,0,0,0.74
+contented,contento,1,0,0,0.94
+contentious,contencioso,0,0,0,0.63
+contradictious,contradictorio,1,0,0,0.64
+contradictory,contradictorio,1,0,0,0.71
+contrary,contrario,1,0,0,0.42
+contrary-minded,de mentalidad contraria,1,0,0,0.81
+controlled,revisado,1,1,0,0.49
+controlling,controlador,0,0,0,0.87
+controversial,polémico,0,0,0,0.46
+conventional,convencional,1,1,0,0.79
+conversational,conversacional,1,0,0,0.9
+convincing,Convincente,0,0,0,0.88
+convivial,alegre,0,0,0,0.35
+cool,frio,1,0,0,0.72
+cool-headed,sereno,1,0,0,0.84
+cooperative,cooperativa,1,1,0,0.89
+coquettish,jugado,0,0,0,0.52
+cordial,cordial,1,1,0,0.87
+corrective,correctivo,1,0,0,0.89
+corrupt,corrupto,0,0,0,0.84
+corruptible,corruptible,0,0,0,0.9
+cosmopolitan,cosmopolita,1,0,0,0.57
+counselable,aconsejable,1,0,0,0.63
+courageous,valiente,1,1,1,0.94
+courteous,cortés,1,1,0,0.97
+courtly,cortés,1,0,0,0.79
+covetous,codicioso,1,0,0,0.83
+cowardly,cobardemente,1,1,1,0.89
+coy,tímido,1,0,0,0.65
+crabby,osco,1,1,0,0.76
+crafty,astuto,1,1,0,0.77
+cranky,de maniático,1,1,0,0.95
+crass,craso,0,0,0,0.83
+craven,cobarde,0,0,0,0.22
+crazed,loco,0,0,0,0.95
+crazy,loco,0,0,0,0.96
+creative,creativo,1,1,1,0.94
+credible,creíble,0,0,0,0.83
+credulous,crédulo,1,0,0,0.51
+critical,crítico,1,1,0,0.86
+crooked,torcido,0,0,0,0.87
+crotchety,áspero,1,0,0,0.53
+crude,crudo,0,0,0,0.49
+cruel,cruel,1,1,1,0.79
+crusading,cruzada,1,0,0,0.57
+cryptic,críptico,0,0,0,0.86
+cultivated,cultivado,1,0,0,0.71
+cultivating,cultivar,0,0,0,0.79
+cultured,culto,1,1,0,0.92
+cunning,astuto,1,1,0,0.65
+curious,curioso,1,1,0,0.92
+curmudgeonly,cascarrabias,0,0,0,0.42
+cursed,maldito,0,0,0,0.58
+curt,brusco,1,0,0,0.62
+cute,lindo,0,0,0,0.91
+cutthroat,asesino,0,0,0,0.91
+cynical,cínico,1,1,1,0.16
+daft,loco,0,0,0,0.7
+dainty,delicado,1,0,0,0.14
+damaging,perjudicial,0,0,0,0.97
+dangerous,peligroso,0,0,0,0.94
+dapper,apuesto,1,0,0,0.71
+daring,atrevido,1,1,0,0.91
+dark,oscuro,0,0,0,0.91
+dastardly,ruin,0,0,0,0.63
+dauntless,intrépido,1,0,0,0.75
+dawdling,holgazaneando,0,0,0,0.86
+debonair,elegante,1,0,0,0.78
+deceitful,engañoso,1,1,0,0.95
+deceivable,engañoso,1,0,0,0.7
+decent,bueno,0,0,0,0.59
+deceptive,engañoso,1,0,0,0.97
+decisive,decisivo,1,1,1,0.81
+decorous,decoroso,0,0,0,0.55
+dedicated,dedicado,1,0,0,0.87
+deep,profundo,1,1,0,0.39
+defenseless,indefenso,0,0,0,0.95
+defensive,defensivo,1,1,0,0.81
+deferential,deferente,0,0,0,0.41
+defiant,desafiante,1,0,0,0.96
+definite,definido,1,0,0,0.87
+deft,hábil,0,0,0,0.53
+degrading,degradante,0,0,0,0.98
+dejected,abatido,0,0,0,0.75
+deliberate,deliberar,1,1,0,0.41
+deliberative,deliberativo,1,0,0,0.71
+delicate,delicado,0,0,0,0.93
+delighted,contento,0,0,0,0.92
+delightful,encantador,0,0,0,0.92
+delinquent,delincuente,0,0,0,0.8
+delusional,delirante,0,0,0,0.94
+demanding,exigente,1,1,0,0.93
+demeaning,degradante,0,0,0,0.88
+democratic,democrático,1,0,0,0.87
+demonstrative,demostrativo,1,1,0,0.67
+demure,recatado,1,0,0,0.68
+denigrating,denigrante,0,0,0,0.67
+denouncing,denunciando,0,0,0,0.71
+dense,denso,0,0,0,0.86
+dependable,confiable,1,1,0,0.92
+dependent,dependiente,1,1,0,0.96
+depraved,depravado,0,0,0,0.64
+depressed,Deprimido,0,0,0,0.92
+depressive,depresivo,0,0,0,0.9
+derisive,burlón,1,0,0,0.52
+derogatory,despectivo,1,0,0,0.5
+designful,designful,1,0,0,0.65
+desirable,deseable,0,0,0,0.94
+despairing,desesperado,0,0,0,0.94
+despondent,abatido,1,0,0,0.65
+destructive,destructivo,1,0,0,0.92
+desultory,inconexo,0,0,0,0.17
+detached,separado,1,1,0,0.51
+determined,determinado,1,0,1,0.65
+devil-may-care,diablo-puede-preocuparse,1,0,0,0.53
+devilish,diabólico,1,0,0,0.93
+devious,tortuoso,1,1,0,0.79
+devoted,devoto,0,0,0,0.95
+devout,devoto,1,0,0,0.92
+dewy,rociado,0,0,0,0.52
+dictatorial,dictatorial,1,0,0,0.66
+didactic,didáctico,0,0,0,0.39
+difficult,difícil,0,0,0,0.82
+diffident,tímido,0,0,0,0.3
+dignified,digno,1,1,0,0.77
+digressive,apartante del tema principal,1,0,0,0.58
+diligent,diligente,1,0,0,0.64
+dim,oscuro,0,0,0,0.9
+diminishing,menguante,0,0,0,0.52
+diplomatic,diplomático,1,1,0,0.74
+direct,directo,1,1,1,0.52
+dirty,sucio,0,0,0,0.45
+disabled,discapacitado,0,0,0,0.97
+disagreeable,desagradable,0,0,0,0.76
+disappointed,decepcionado,0,0,0,0.87
+disapproving,desaprobando,0,0,0,0.83
+disarming,encantador,0,0,0,0.54
+discerning,perspicaz,1,0,0,0.52
+disciplined,disciplinado,0,0,0,0.92
+disclosing,revelando,0,0,0,0.84
+discontented,descontento,0,0,0,0.91
+discourageable,desalentador,1,0,0,0.75
+discouraged,desanimado,0,0,0,0.97
+discourteous,descortés,1,0,0,0.73
+discreet,discreto,1,1,0,0.7
+discriminating,discriminante,0,0,0,0.42
+discriminative,discriminatorio,1,0,0,0.63
+discursive,discursivo,0,0,0,0.22
+disdainful,desdeñoso,1,0,0,0.7
+disengaged,desacoplado,0,0,0,0.84
+disgruntled,descontento,0,0,0,0.89
+disguiseless,sin disfraz,1,0,0,0.61
+disgusted,disgustado,0,0,0,0.58
+disgusting,repugnante,0,0,0,0.98
+disheveled,despeinado,0,0,0,0.8
+dishonest,deshonesto,1,1,0,0.96
+disillusioned,desilusionado,0,0,0,0.72
+disingenuous,falso,0,0,0,0.79
+disinterested,desinteresado,0,0,0,0.88
+disloyal,desleal,0,0,0,0.94
+disobedient,desobediente,0,0,0,0.89
+disobliging,poco servicial,1,0,0,0.64
+disorderly,desordenado,1,1,0,0.78
+disorganized,desestructurado,1,1,0,0.66
+disparaging,despectivo,0,0,0,0.54
+dispassionate,desapasionado,1,0,0,0.63
+disputatious,disputable,0,0,0,0.5
+disregardful,indiferente,1,0,0,0.68
+disrespectful,irrespetuoso,1,1,0,0.94
+disruptive,disruptivo,1,0,0,0.93
+dissatisfied,insatisfecho,1,0,0,0.95
+dissensualized,disensualizado,1,0,0,0.3
+dissocial,hostil,1,0,0,0.82
+distant,distante,1,0,0,0.81
+distinguished,distinguido,0,0,0,0.84
+distractible,distraer,1,0,0,0.88
+distrustful,desconfiado,1,1,0,0.87
+disturbed,perturbado,0,0,0,0.66
+dithering,vacilante,0,0,0,0.5
+divertible,divertible,1,0,0,0.84
+divisive,divisivo,0,0,0,0.68
+divulging,divulgando,0,0,0,0.74
+dizzying,vertiginoso,0,0,0,0.04
+docile,dócil,1,1,0,0.85
+doctrinaire,doctrinario,1,0,0,0.44
+doddering,chocho,0,0,0,0.42
+dodgy,astuto,0,0,0,0.67
+dogged,obstinado,1,0,0,0.39
+dogmatic,dogmático,1,1,0,0.41
+doleful,triste,1,0,0,0.75
+doltish,tonto,0,0,0,0.64
+dominant,dominante,1,1,0,0.75
+domineering,dominador,1,1,1,0.88
+dopey,atontado,0,0,0,0.81
+doting,chocho,0,0,0,0.65
+dotty,punteado,0,0,0,0.52
+double-crossing,doble travesura,0,0,0,0.83
+double-faced,doble cara,1,0,0,0.84
+double-tongued,de doble lengua,1,0,0,0.68
+doubting,inseguro,0,0,0,0.94
+dour,austero,0,0,0,0.52
+dowdy,desaliñado,0,0,0,0.59
+down-to-earth,realista,1,1,0,0.68
+downtrodden,oprimido,0,0,0,0.81
+dramatic,dramático,0,0,0,0.69
+dreamy,soñador,1,0,0,0.84
+dreary,triste,0,0,0,0.91
+dressy,elegante,0,0,0,0.92
+droll,gracioso,0,0,0,0.3
+dubious,dudoso,0,0,0,0.7
+dull,tedioso,1,1,0,0.51
+dull-witted,tonto,1,0,0,0.89
+dumb,tonta,0,0,0,0.83
+durable,durable,1,0,0,0.92
+dutiful,obediente,1,0,0,0.9
+dynamic,dinámica,1,0,0,0.44
+eager,entusiasta,1,0,0,0.83
+eagle-eyed,ojos de águila,1,0,0,0.91
+earnest,serio,1,1,0,0.69
+earthly-minded,terrenal,1,0,0,0.9
+earthly-wise,terrenal,1,0,0,0.6
+earthy,terroso,1,1,0,0.39
+easeless,relajado,1,0,0,0.69
+easygoing,de trato fácil,1,1,1,0.64
+ebullient,exuberante,0,0,0,0.44
+eccentric,excéntrico,0,0,0,0.78
+eclectic,ecléctico,0,0,0,0.49
+economical,económico,1,1,0,0.78
+economizing,economizar,0,0,0,0.72
+edgy,tenso,0,0,0,0.9
+educable,educable,1,0,0,0.77
+educated,educado,1,0,0,0.89
+effective,eficaz,0,0,0,0.88
+effeminate,afeminado,1,0,0,0.81
+effervescent,efervescente,1,0,0,0.69
+efficient,eficiente,1,1,0,0.81
+effusive,efusivo,0,0,0,0.34
+egocentric,egocéntrico,1,1,0,0.94
+egotistical,ególatra,1,1,0,0.94
+elderly,anciano,0,0,0,0.94
+elegant,elegante,1,0,0,0.9
+elfish,aduendado,1,0,0,0.53
+eloquent,elocuente,1,1,0,0.77
+elusive,elusivo,1,0,0,0.67
+emasculated,castrado,0,0,0,0.9
+embarrassed,avergonzado,0,0,0,0.75
+embarrassing,embarazoso,0,0,0,0.73
+embellishing,embellecer,0,0,0,0.81
+embittered,amargado,1,0,0,0.79
+embracing,abrazar,0,0,0,0.84
+emergent,emergente,0,0,0,0.85
+emotional,emocional,1,1,1,0.86
+emotionless,sin emociones,1,0,0,0.97
+empathetic,empático,0,0,0,0.91
+empathic,empático,1,1,0,0.83
+emphatic,enfático,1,0,0,0.34
+empirical,empírico,0,0,0,0.66
+employed,empleado,0,0,0,0.78
+empowering,empoderamiento,0,0,0,0.49
+encouraged,alentado,0,0,0,0.84
+encouraging,alentador,0,0,0,0.64
+encumbered,estorbado,0,0,0,0.73
+encyclopedic,enciclopédico,1,0,0,0.6
+energetic,enérgico,1,1,0,0.9
+engaging,atractivo,0,0,0,0.59
+enigmatic,enigmático,0,0,0,0.62
+enlightened,ilustrado,1,0,0,0.85
+enterprising,emprendedor,1,1,0,0.79
+entertaining,entretenido,0,0,0,0.91
+enthusiastic,entusiasta,1,1,1,0.95
+envious,envidioso,1,1,0,0.93
+equalitarian,igualitario,1,0,0,0.97
+equitable,equitativo,0,0,0,0.69
+equivocal,equívoco,0,0,0,0.25
+equivocating,equívoco,0,0,0,0.26
+erotic,erótico,0,0,0,0.94
+erratic,errático,1,1,0,0.7
+erudite,erudito,0,0,0,0.57
+esoteric,esotérico,0,0,0,0.56
+ethereal,etéreo,0,0,0,0.59
+ethical,ético,1,1,0,0.91
+ethnocentric,etnocéntrico,0,0,0,0.67
+evangelistic,evangélico,1,0,0,0.7
+evasive,evasivo,1,0,0,0.9
+even-handed,imparcial,0,0,0,0.76
+evil,maldad,0,0,0,0.91
+exact,exacto,1,0,0,0.93
+exacting,exigente,1,1,0,0.67
+exaggerative,exagerativo,1,0,0,0.93
+exasperated,exasperado,0,0,0,0.77
+excellent,excelente,0,0,0,0.84
+exceptional,excepcional,0,0,0,0.74
+excessive,excesivo,1,0,0,0.71
+excitable,excitable,1,1,0,0.89
+excited,emocionado,0,0,0,0.89
+exciting,excitante,0,0,0,0.9
+exclusive,exclusivo,1,0,0,0.79
+exhausted,exhausto,0,0,0,0.98
+exhaustible,agotable,1,0,0,0.92
+exhaustive,exhaustivo,1,0,0,0.52
+exhibitionistic,exhibicionista,1,1,0,0.85
+expansive,expansivo,1,0,0,0.92
+expectant,expectante,0,0,0,0.81
+expedient,conveniente,0,0,0,0.12
+expeditious,expeditivo,0,0,0,0.64
+experienced,experimentado,0,0,0,0.9
+experiential,experimental,0,0,0,0.69
+experimenting,experimentando,0,0,0,0.8
+explicit,explícito,1,0,0,0.53
+exploitative,explotador,1,0,0,0.81
+explosive,explosivo,1,1,0,0.92
+expressive,expresivo,1,1,0,0.87
+extraordinary,extraordinario,0,0,0,0.89
+extravagant,Extravagante,1,1,0,0.9
+extraverted,extravertido,0,0,0,0.83
+extreme,extremo,0,0,0,0.72
+extroverted,extrovertido,1,1,1,0.92
+facetious,chistoso,1,0,0,0.36
+factious,faccioso,1,0,0,0.26
+faint-hearted,Débil de corazón,1,0,0,0.64
+fair,justa,0,0,0,0.84
+fair-minded,imparcial,1,0,0,0.83
+fair-natured,de buen carácter,1,0,0,0.75
+faithful,fiel,1,0,0,0.85
+faithless,desleal,0,0,0,0.63
+fake,falso,0,0,0,0.93
+false,falso,0,0,0,0.83
+false-hearted,de corazón falso,1,0,0,0.65
+faltering,vacilante,0,0,0,0.8
+familiar,familiar,0,0,0,0.99
+famous,famoso,0,0,0,0.91
+fanatical,fanático,1,0,0,0.64
+fanciful,imaginario,1,0,0,0.67
+fancy,elegante,0,0,0,0.9
+fancy-free,sin lujos,1,0,0,0.73
+fantastical,fantástico,0,0,0,0.79
+farseeing,previsión,1,0,0,0.89
+fascinating,fascinante,0,0,0,0.85
+fashionable,de moda,0,0,0,0.88
+fastidious,fastidioso,1,0,0,0.54
+fat,grasa,0,0,0,0.94
+fatalistic,fatalista,1,0,0,0.44
+fatherly,paternal,0,0,0,0.85
+fatigueless,fatigado,1,0,0,0.84
+fatuous,fatuo,0,0,0,0.32
+faultfinding,localización de averías,1,1,0,0.71
+fawning,adulación,0,0,0,0.57
+fearful,temeroso,1,1,1,0.67
+fearless,audaz,1,0,0,0.89
+feckless,irresponsable,0,0,0,0.48
+feeble-minded,débiles mentales,0,0,0,0.82
+feelingful,sentimental,1,0,0,0.52
+feelingless,Sintiendo menos,1,0,0,0.81
+felicitous,feliz,0,0,0,0.42
+felonious,criminal,0,0,0,0.62
+feminine,femenino,1,1,0,0.96
+ferocious,feroz,0,0,0,0.97
+fervent,ferviente,1,0,0,0.61
+festive,festivo,0,0,0,0.94
+fickle,voluble,1,0,0,0.81
+fidgety,nervioso,1,0,0,0.92
+fiendish,diabólico,0,0,0,0.37
+fierce,intenso,1,0,0,0.83
+fiery,ardiente,1,0,0,0.93
+filthy,asqueroso,0,0,0,0.95
+fine,multa,0,0,0,0.57
+finicky,melindroso,1,1,0,0.82
+firm,firma,1,1,0,0.77
+fishy,sospechoso,0,0,0,0.58
+flaky,escamoso,0,0,0,0.61
+flamboyant,extravagante,1,1,0,0.9
+flammable,inflamable,1,0,0,0.95
+flashy,ostentoso,0,0,0,0.91
+flatterable,halagador,1,0,0,0.9
+flattering,halagador,0,0,0,0.57
+flaunty,ostentación,1,0,0,0.84
+flawless,perfecto,0,0,0,0.94
+flexible,flexible,1,1,0,0.92
+flighty,frívolo,1,0,0,0.44
+flinching,estremecerse,0,0,0,0.95
+flippant,ligero,1,0,0,0.57
+flirtatious,coqueto,1,1,0,0.93
+florid,florido,0,0,0,0.51
+fluid,líquido,0,0,0,0.69
+fluttery,aleteo,1,0,0,0.55
+folksy,folklórico,1,0,0,0.66
+foolhardy,temerario,1,1,0,0.63
+foolish,tonto,1,0,0,0.9
+footloose,suelto,1,0,0,0.7
+foppish,afectado,0,0,0,0.43
+forbearing,tolerante,1,0,0,0.31
+forceful,potente,1,1,0,0.66
+forceless,sin energía,1,0,0,0.68
+forcible,forzado,1,0,0,0.85
+foresighted,previsor,1,1,0,0.9
+foresightless,imprudente,1,0,0,0.81
+forethoughtful,pensativo,1,0,0,0.81
+forgetful,olvidadizo,1,1,0,0.68
+forgiving,indulgente,1,0,0,0.91
+forlorn,abandonado,0,0,0,0.7
+formal,formal,1,1,0,0.63
+forthcoming,próximo,0,0,0,0.69
+forthright,directo,1,0,0,0.53
+fortunate,afortunado,0,0,0,0.96
+forward,hacia adelante,1,0,0,0.75
+forward-looking,Mirando hacia adelante,1,0,0,0.9
+foul-mouthed,mal hablado,1,0,0,0.95
+foxy,astuto,1,0,0,0.65
+fractious,díscolo,0,0,0,0.41
+fragile,frágil,0,0,0,0.97
+frank,franco,1,1,1,0.9
+fraternal,fraternal,1,0,0,0.96
+fraudulent,fraudulento,1,0,0,0.86
+free,gratis,0,0,0,0.64
+free-living,viviendo libre,1,0,0,0.7
+free-minded,de mente abierta,1,0,0,0.71
+free-thinking,pensamiento libre,1,0,0,0.87
+frenetic,frenético,0,0,0,0.7
+frenzied,frenético,0,0,0,0.8
+fretful,displicente,1,1,0,0.76
+fretless,sin trastes,1,0,0,0.71
+fretting,inquieto,0,0,0,0.66
+friendly,simpático,1,1,1,0.94
+frightenable,espantoso,1,0,0,0.93
+frightened,aterrado,0,0,0,0.94
+frightening,atemorizante,0,0,0,0.87
+frigid,frígido,0,0,0,0.96
+frisky,retozón,1,0,0,0.8
+frivolous,frívolo,1,1,0,0.65
+frolicsome,juguetón,1,0,0,0.73
+frugal,frugal,1,0,0,0.97
+frustrated,frustrado,0,0,0,0.75
+frustrating,frustrante,0,0,0,0.71
+fumbling,revuelto,0,0,0,0.89
+funny,gracioso,0,0,1,0.94
+furious,furioso,0,0,0,0.95
+fussy,exigente,1,0,0,0.63
+gabby,hablador,1,0,0,0.88
+gallant,galante,1,0,0,0.77
+garish,llamativo,0,0,0,0.74
+garrulous,gárrulo,0,0,0,0.38
+gauche,desmañado,0,0,0,0.45
+gaudy,llamativo,0,0,0,0.91
+generative,generativo,0,0,0,0.58
+generous,generoso,1,1,1,0.58
+genial,genial,1,1,0,0.64
+genteel,gentil,1,0,0,0.51
+gentle,amable,1,0,1,0.8
+gentle-minded,bondadoso,1,0,0,0.41
+gentlemanlike,caballeroso,1,0,0,0.99
+genuine,auténtico,0,0,0,0.91
+giddy,mareado,0,0,0,0.26
+gifted,dotado,0,0,0,0.9
+giggly,riendo,0,0,0,0.91
+girlish,de niña,1,0,0,0.96
+giving,donación,1,0,0,0.81
+glad,contento,0,0,0,0.9
+glamorous,atractivo,0,0,0,0.61
+gleeful,jubiloso,0,0,0,0.95
+glib,fácil,1,0,0,0.53
+gloating,regodearse,0,0,0,0.71
+gloomy,sombrío,1,0,0,0.94
+glum,sombrío,0,0,0,0.88
+gluttonous,glotón,1,0,0,0.97
+goading,aguijonear,0,0,0,0.68
+goatish,cabruno,0,0,0,0.07
+god-fearing,temor de Dios,1,0,0,0.95
+godless,impío,1,0,0,0.88
+good,bien,0,0,0,0.55
+good-for-nothing,bueno para nada,0,0,0,0.82
+good-hearted,de buen corazón,1,0,0,0.94
+good-humored,de buen humor,1,0,0,0.8
+good-looking,guapo,0,0,0,0.99
+good-natured,bondadoso,1,0,0,0.97
+good-tempered,Bien templado,1,0,0,0.86
+gorgeous,precioso,0,0,0,0.96
+gossipy,cotilleado,1,1,0,0.93
+gourmet,gastrónomo,0,0,0,0.91
+grabby,agarrar,0,0,0,0.78
+graceful,agraciado,1,0,0,0.65
+graceless,sin gracia,1,0,0,0.66
+gracious,Cortés,1,0,0,0.85
+grand,grandioso,0,0,0,0.88
+grandfatherly,abuelo,0,0,0,0.77
+grandiloquent,grandilocuente,0,0,0,0.55
+grandiose,grandioso,0,0,0,0.66
+grandmotherly,por ser abuela,0,0,0,0.82
+grateful,agradecido,0,0,0,0.98
+grave,tumba,0,0,0,0.68
+greasy,grasiento,0,0,0,0.97
+great,estupendo,0,0,0,0.76
+great-hearted,de gran corazón,1,0,0,0.85
+greedy,avaro,1,1,1,0.93
+gregarious,gregario,1,1,1,0.64
+gritty,arenoso,0,0,0,0.45
+grouchy,malhumorado,0,0,0,0.92
+grousing,quejándose,0,0,0,0.52
+groveling,humillando,0,0,0,0.66
+grudging,avaro,0,0,0,0.46
+gruff,brusco,1,0,0,0.85
+grumbly,refunfuñando,1,0,0,0.8
+grumpy,gruñón,1,1,0,0.95
+guarded,guardado,0,0,0,0.79
+guileless,inocente,1,0,0,0.52
+guilt-free,libre de culpa,0,0,0,0.9
+guiltless,inocente,0,0,0,0.76
+guilty,culpable,0,0,0,0.9
+gullible,crédulo,1,1,1,0.97
+gushy,efusivo,1,0,0,0.75
+gutless,cobarde,1,0,0,0.78
+gutsy,valiente,1,0,0,0.82
+habitual,habitual,0,0,0,0.87
+halfhearted,poco entusiasta,0,0,0,0.79
+halfwitted,tonto,0,0,0,0.87
+handicapped,minusválido,0,0,0,0.95
+handsome,guapo,0,0,0,0.96
+handy,práctico,0,0,0,0.74
+haphazard,al azar,1,1,0,0.58
+hapless,desventurado,0,0,0,0.72
+happy,contento,0,0,1,0.93
+happy-go-lucky,feliz-despreocupado,1,1,0,0.85
+harassing,acosando,0,0,0,0.63
+hard,duro,0,0,0,0.46
+hard-hearted,duro de corazón,1,0,0,0.37
+hard-nosed,duro,1,0,0,0.61
+hard-shelled,de cáscara dura,1,0,0,0.52
+hardened,curtido,1,0,0,0.62
+hardheaded,cabeza dura,1,0,0,0.69
+hardworking,trabajo duro,1,0,0,0.92
+hardy,resistente,0,0,0,0.76
+harebrained,atolondrado,0,0,0,0.63
+harmless,inofensivo,0,0,0,0.89
+harsh,duro,1,1,0,0.8
+hasty,apresurado,1,0,0,0.91
+hateful,odioso,0,0,0,0.84
+haughty,arrogante,1,0,0,0.68
+headlong,de cabeza,1,0,0,0.36
+headstrong,voluntarioso,1,0,0,0.91
+healthful,sano,0,0,0,0.78
+healthy,saludable,0,0,0,0.94
+heartbroken,desconsolado,0,0,0,0.9
+heartless,cruel,1,0,0,0.9
+heartsick,afligido,0,0,0,0.76
+hearty,abundante,1,1,0,0.47
+heavy-handed,mano dura,0,0,0,0.62
+hectic,frenético,1,0,0,0.85
+heedful,atento,1,0,0,0.82
+heedless,desatento,1,0,0,0.72
+helpful,servicial,1,1,0,0.94
+helpless,indefenso,0,0,0,0.88
+heretical,herético,1,0,0,0.37
+hermitish,ermitaño,1,0,0,0.83
+heroic,heroico,1,0,0,0.92
+hesitant,vacilante,0,0,0,0.9
+hidebound,rígido,0,0,0,0.17
+high-handed,prepotente,1,0,0,0.37
+high-minded,magnánimo,1,0,0,0.73
+high-principled,de altos principios,1,0,0,0.81
+high-spirited,animado,1,0,0,0.7
+high-strung,muy nervioso,1,1,0,0.8
+highbrow,intelectual,0,0,0,0.57
+highfalutin,highfalutin,1,0,0,0.68
+hilarious,gracioso,0,0,0,0.82
+histrionic,histriónico,0,0,0,0.31
+hit-or-miss,dar o fallar,1,0,0,0.6
+hoggish,cochino,1,0,0,0.69
+holier-than-thou,más santo que tú,0,0,0,0.79
+holy,santo,0,0,0,0.92
+homeless,Vagabundo,0,0,0,0.98
+homespun,llano,1,0,0,0.43
+homicidal,homicida,1,0,0,0.94
+honest,honesto,1,1,1,0.93
+honorable,honorable,0,0,0,0.93
+hopeful,esperanzado,0,0,0,0.82
+hopeless,sin esperanza,0,0,0,0.89
+hospitable,hospitalario,1,0,0,0.96
+hostile,hostil,1,0,0,0.79
+hot-blooded,sangre caliente,1,0,0,0.86
+hot-tempered,irascible,1,0,0,0.97
+hotheaded,exaltado,0,0,0,0.92
+humane,humano,1,0,0,0.92
+humanistic,humanista,0,0,0,0.88
+humanitarian,humanitario,1,0,0,0.78
+humble,humilde,1,1,0,0.89
+humiliated,humillado,0,0,0,0.87
+humiliating,humillante,0,0,0,0.95
+humorless,sin sentido del humor,1,1,0,0.86
+humorous,humorístico,1,1,0,0.95
+hungry,hambriento,0,0,0,0.72
+hurtful,hiriente,0,0,0,0.94
+hygienic,higiénico,0,0,0,0.95
+hypercritical,hipercrítico,1,0,0,0.88
+hypersensitive,hipersensible,1,0,0,0.69
+hypersensual,hipersensible,1,0,0,0.78
+hypochondriac,hipocondríaco,0,0,0,0.87
+hypocritical,hipócrita,1,1,0,0.46
+hysterical,histérico,0,0,0,0.86
+iconoclastic,iconoclasta,0,0,0,0.26
+icy,glacial,1,0,0,0.88
+idealistic,idealista,1,1,0,0.71
+ideological,ideológico,0,0,0,0.82
+idiotic,idiota,0,0,0,0.92
+idle,inactivo,0,0,0,0.6
+idolatrous,idólatra,0,0,0,0.82
+ignorant,ignorante,1,1,0,0.92
+ill-bred,mal educado,0,0,0,0.84
+ill-fated,desafortunado,0,0,0,0.99
+ill-humored,de mal humor,1,0,0,0.53
+ill-mannered,maleducado,1,0,0,0.83
+ill-natured,malhumorado,1,0,0,0.76
+ill-tempered,malhumorado,1,0,0,0.87
+ill-willed,de mala voluntad,1,0,0,0.7
+illiterate,analfabeto,1,0,0,0.92
+illogical,ilógico,1,1,0,0.86
+imaginative,imaginativo,1,1,1,0.96
+imitative,imitativo,1,0,0,0.86
+immaculate,inmaculado,0,0,0,0.62
+immature,inmaduro,1,1,0,1
+immoderate,inmoderado,1,0,0,0.5
+immodest,inmodesto,1,0,0,0.43
+immoral,inmoral,0,0,0,0.9
+immovable,inamovible,1,0,0,0.79
+impaired,dañado,0,0,0,0.76
+impartial,imparcial,1,1,0,0.83
+impassioned,apasionado,0,0,0,0.76
+impassive,impasivo,1,0,0,0.51
+impatient,impaciente,1,1,1,0.92
+imperceptive,imperceptible,1,0,0,0.76
+impersonal,impersonal,1,1,0,0.64
+impertinent,impertinente,1,0,0,0.43
+imperturbable,imperturbable,1,0,0,0.47
+impetuous,impetuoso,1,1,0,0.57
+impious,impío,1,0,0,0.49
+impish,travieso,1,0,0,0.74
+implacable,implacable,0,0,0,0.47
+impolite,descortés,1,1,0,0.99
+impolitic,impolítico,0,0,0,0.15
+important,importante,0,0,0,0.76
+imposing,imponente,0,0,0,0.66
+impractical,poco práctico,1,1,0,0.86
+imprecise,impreciso,1,0,0,0.72
+impressible,impresionable,1,0,0,0.76
+impressionable,impresionable,1,0,0,0.86
+impressive,impresionante,0,0,0,0.81
+improper,incorrecto,0,0,0,0.86
+improvident,imprevisor,0,0,0,0.47
+improvising,improvisando,0,0,0,0.81
+imprudent,imprudente,1,0,0,0.52
+impudent,impudente,1,0,0,0.51
+impulsive,impulsivo,1,1,1,0.92
+inaccessible,inaccesible,0,0,0,0.92
+inaccurate,incorrecto,1,0,0,0.92
+inactive,inactivo,0,0,0,0.61
+inaggressive,agresivo,1,0,0,0.71
+inane,inane,0,0,0,0.69
+inarticulate,inarticulado,1,1,0,0.87
+inattentive,inatento,0,0,0,0.79
+incapable,incapaz,0,0,0,0.92
+incautious,incauto,1,0,0,0.42
+incendiary,incendiario,0,0,0,0.6
+incisive,incisivo,0,0,0,0.66
+incoercible,incoercible,1,0,0,0.38
+incoherent,incoherente,0,0,0,0.86
+incompetent,incompetente,0,0,0,0.76
+incompliant,incumplidor,1,0,0,0.53
+inconfident,desconfiado,1,0,0,0.84
+inconfinable,inconfundible,1,0,0,0.82
+incongenial,desagradable,1,0,0,0.62
+inconsiderate,desconsiderado,1,1,0,0.91
+inconsistent,inconsistente,1,1,0,0.91
+inconsolable,inconsolable,0,0,0,0.69
+inconstant,inconstante,1,0,0,0.81
+incontrollable,incontrolable,1,0,0,0.85
+inconvincible,inconvencible,1,0,0,0.93
+incorrigible,incorregible,0,0,0,0.68
+incorrupt,incorrupto,1,0,0,0.82
+incorruptible,incorruptible,1,0,0,0.76
+incredulous,incrédulo,0,0,0,0.68
+incurious,incurioso,1,0,0,0.7
+indecent,indecente,0,0,0,0.77
+indecisive,indeciso,1,1,0,0.98
+indefatigable,infatigable,1,0,0,0.6
+indefinite,indefinido,1,0,0,0.72
+indeliberate,indeliberado,1,0,0,0.59
+indelicate,poco delicado,1,0,0,0.67
+independent,independiente,1,1,1,0.72
+indestructible,indestructible,1,0,0,0.98
+indifferent,indiferente,1,0,0,0.83
+indignant,indignado,0,0,0,0.43
+indirect,indirecto,1,1,0,0.7
+indiscreet,indiscreto,1,1,0,0.39
+indivertible,indivisible,1,0,0,0.79
+individualistic,individualista,1,1,0,0.84
+indocile,indócil,1,0,0,0.34
+indolent,indolente,0,0,0,0.56
+indomitable,indomable,1,0,0,0.78
+indulgent,indulgente,1,1,0,0.37
+industrious,industrioso,1,1,0,0.73
+inefficient,ineficiente,1,1,0,0.95
+inelegant,poco elegante,1,0,0,0.74
+ineloquent,ineluyente,1,0,0,0.86
+inert,inerte,0,0,0,0.57
+inexact,inexacto,1,0,0,0.93
+inexcitable,inexcitable,1,0,0,0.7
+inexhaustible,inagotable,1,0,0,0.64
+inexperienced,inexperto,1,0,0,0.97
+inexplicit,inexplicable,1,0,0,0.68
+inexpressive,inexpresivo,1,0,0,0.85
+infantile,infantil,0,0,0,0.89
+inflammatory,inflamatorio,0,0,0,0.58
+inflexible,inflexible,1,0,0,0.89
+influential,influyente,0,0,0,0.79
+informal,informal,1,1,0,0.84
+informative,informativo,1,0,0,0.95
+informed,informado,1,0,0,0.63
+ingenious,ingenioso,1,1,0,0.82
+ingenuous,ingenuo,1,0,0,0.2
+ingratiating,insinuante,1,0,0,0.25
+ingratiatory,congraciador,1,0,0,0.25
+inharmonious,inarmónico,1,0,0,0.5
+inhibited,inhibido,1,1,0,0.58
+inhospitable,inhóspito,1,0,0,0.88
+inhuman,inhumano,1,0,0,0.89
+inhumane,inhumano,1,0,0,0.66
+inirritable,inirritable,1,0,0,0.51
+initiating,iniciando,0,0,0,0.84
+injudicious,poco juicioso,1,0,0,0.48
+innocent,inocente,0,0,0,0.92
+innovative,innovador,1,1,0,0.88
+inoffensive,inofensivo,0,0,0,0.8
+inquiring,indagando,1,0,0,0.84
+inquisitive,inquisitivo,1,1,0,0.86
+inquisitorial,inquisitorial,1,0,0,0.77
+insane,loco,0,0,0,0.93
+insatiable,insaciable,0,0,0,0.87
+insecure,inseguro,1,1,0,0.87
+insensate,insensato,0,0,0,0.63
+insensitive,insensible,1,1,0,0.87
+insensuous,insensible,1,0,0,0.34
+insightful,perspicaz,1,1,0,0.76
+insincere,insincero,1,1,0,0.86
+insinuating,insinuante,0,0,0,0.73
+insistent,insistente,0,0,0,0.46
+insolent,insolente,1,0,0,0.69
+inspirational,inspirador,0,0,0,0.87
+inspired,inspirado,0,0,0,0.69
+instructible,instructible,1,0,0,0.79
+insubordinate,insubordinado,1,0,0,0.84
+insulting,insultante,0,0,0,0.87
+insuppressible,insoportable,1,0,0,0.82
+intellectual,intelectual,1,1,0,0.81
+intelligent,inteligente,1,1,1,0.43
+intemperate,intemperante,1,0,0,0.3
+intense,intenso,1,1,0,0.83
+interested,interesado,0,0,0,0.87
+interesting,interesante,0,0,0,0.8
+interfering,entrometido,0,0,0,0.93
+intimate,íntimo,1,0,0,0.83
+intimidating,intimidante,0,0,0,0.87
+intolerant,intolerante,1,1,0,0.82
+intransigent,intransigente,0,0,0,0.36
+intrepid,intrépido,0,0,0,0.36
+intricate,intrincado,1,0,0,0.83
+introspective,introspectivo,1,1,0,0.93
+introverted,introvertido,1,1,1,0.88
+intrusive,intruso,1,1,0,0.63
+intuiting,intuitivo,0,0,0,0.76
+intuitive,intuitivo,1,0,0,0.92
+invalidating,invalidante,0,0,0,0.73
+invariable,invariable,1,0,0,0.86
+inventive,inventivo,1,1,0,0.88
+invidious,odioso,0,0,0,0.41
+invincible,invencible,1,0,0,0.88
+inviting,atractivo,0,0,0,0.81
+involved,involucrado,0,0,0,0.53
+inward,interior,1,0,0,0.73
+irascible,irascible,0,0,0,0.34
+iron-hearted,corazón de hierro,1,0,0,0.68
+ironical,irónico,1,0,0,0.71
+irrational,irracional,1,0,0,0.86
+irreformable,irreformable,1,0,0,0.82
+irreligious,irreligioso,1,0,0,0.76
+irrepressible,irreprimible,1,0,0,0.63
+irresolute,irresoluto,1,0,0,0.67
+irresponsible,irresponsable,1,0,0,0.71
+irrestrainable,irresistible,1,0,0,0.84
+irreverent,irreverente,1,1,0,0.56
+irritable,irritable,1,1,0,0.96
+irritated,irritado,0,0,0,0.95
+irritating,irritante,0,0,0,0.75
+jabbering,parloteo,0,0,0,0.94
+jaded,hastiado,0,0,0,0.75
+jaunty,alegre,1,0,0,0.52
+jazzy,llamativo,0,0,0,0.8
+jealous,celoso,1,1,0,0.89
+jeering,burla,0,0,0,0.65
+jocular,jocoso,1,0,0,0.64
+jolly,alegre,1,0,0,1
+jovial,jovial,1,1,0,0.81
+joyful,alegre,0,0,0,0.95
+joyless,triste,1,0,0,0.78
+joyous,jubiloso,0,0,0,0.94
+judgmental,crítico,0,0,0,0.88
+judicious,juicioso,1,0,0,0.7
+jumpy,asustadizo,0,0,0,0.9
+just,solo,1,0,0,0.82
+juvenile,juvenil,1,0,0,1
+keen,entusiasta,0,0,0,0.43
+kind,amable,1,1,0,0.87
+kindhearted,de buen corazón,1,0,0,0.87
+kindly,amable,1,0,0,0.83
+kingly,real,0,0,0,0.82
+kinky,rizado,0,0,0,0.91
+kittenish,coquetón,0,0,0,0.43
+knavish,pícaro,1,0,0,0.23
+know-it-all,saberlo todo,1,0,0,0.96
+knowledgeable,experto,1,1,0,1
+labile,lábil,0,0,0,0.26
+lachrymose,lacrimoso,0,0,0,0.35
+lackadaisical,lánguido,1,0,0,0.69
+lackluster,deslucido,0,0,0,0.91
+laconic,lacónico,0,0,0,0.24
+ladylike,elegante,1,0,0,0.42
+laid-back,relajado,0,0,0,0.99
+lamblike,como cordero,1,0,0,0.82
+languid,lánguido,1,0,0,0.34
+larcenous,ladrón,1,0,0,0.75
+lascivious,lascivo,0,0,0,0.76
+laughing,risa,0,0,0,0.61
+laughterless,sin risa,1,0,0,0.21
+lavish,prodigar,1,0,0,0.7
+law-abiding,respetuoso de la ley,1,0,0,0.92
+lawless,ilegal,1,0,0,0.86
+lax,flojo,1,1,0,0.78
+lazy,perezoso,1,1,1,0.98
+leadable,líder,1,0,0,0.78
+learned,aprendió,1,0,0,0.85
+lecherous,lascivo,1,0,0,0.4
+lecturing,disertando,0,0,0,0.63
+leering,lascivo,0,0,0,0.87
+left-handed,zurdo,0,0,0,0.94
+legalistic,legalista,1,0,0,0.72
+leisureless,despreocupado,1,0,0,0.47
+leisurely,sin prisa,1,0,0,0.79
+lenient,indulgente,1,1,0,0.79
+lethargic,letárgico,1,1,0,0.64
+levelheaded,Nivelado,1,0,0,0.94
+lewd,lascivo,1,0,0,0.91
+liberal,liberal,0,0,0,0.51
+liberated,liberado,0,0,0,0.94
+libidinous,libidinoso,0,0,0,0.72
+licentious,licencioso,0,0,0,0.53
+life-weary,cansado de la vida,1,0,0,0.85
+lifeless,sin vida,1,0,0,0.88
+lighthearted,alegre,1,0,0,0.89
+likeable,simpático,0,0,0,0.79
+lily-livered,lirio vivo,0,0,0,0.55
+lion-hearted,corazón de león,1,0,0,0.98
+listless,apático,0,0,0,0.71
+literal,literal,1,0,0,0.72
+literary,literario,1,0,0,0.92
+literate,alfabetizado,1,0,0,0.9
+little,poco,0,0,0,0.29
+live,En Vivo,1,0,0,0.71
+lively,dinámico,1,0,0,0.97
+logical,lógico,1,1,0,0.89
+lonely,solitario,0,0,0,0.88
+lonesome,solitario,0,0,0,0.98
+long-suffering,sufrido,1,0,0,0.86
+long-winded,prolijo,1,0,0,0.85
+longing,anhelo,0,0,0,0.7
+loony,loco,0,0,0,0.89
+loopy,chiflado,0,0,0,0.7
+loose,suelto,0,0,0,0.88
+loose-tongued,de lengua suelta,1,0,0,0.88
+loquacious,locuaz,0,0,0,0.41
+lordly,señorial,0,0,0,0.5
+loud,fuerte,1,0,0,0.96
+loudmouthed,boquiabierto,1,0,0,0.76
+loutish,grosero,0,0,0,0.3
+lovable,amable,0,0,0,0.91
+loveless,Desamor,0,0,0,0.85
+lovely,encantador,0,0,0,0.94
+loving,cariñoso,1,0,0,0.98
+low-key,Clave baja,0,0,0,0.75
+lowbrow,de poca cultura,0,0,0,0.49
+loyal,leal,1,1,1,0.88
+lucid,lúcido,1,0,0,0.58
+luckless,desafortunado,0,0,0,0.84
+lucky,afortunado,0,0,0,0.88
+lugubrious,lúgubre,0,0,0,0.14
+lukewarm,tibio,1,0,0,0.48
+lustful,libidinoso,1,1,0,0.96
+lustless,lujurioso,1,0,0,0.46
+lusty,fuerte,1,0,0,0.18
+luxurious,lujoso,0,0,0,0.74
+lyrical,lírico,0,0,0,0.06
+macabre,macabro,0,0,0,0.69
+mad,enojado,0,0,0,0.82
+magisterial,magistral,1,0,0,0.31
+magnanimous,magnánimo,1,0,0,0.33
+magnetic,magnético,1,1,0,0.97
+maladjusted,inadaptado,0,0,0,0.77
+maladroit,desmañado,0,0,0,0.15
+malcontented,descontento,0,0,0,0.55
+malevolent,malévolo,1,0,0,0.93
+malicious,malicioso,1,0,0,0.98
+malingering,proceso de enfermedad,0,0,0,0.49
+malleable,maleable,1,0,0,0.87
+maniacal,maníaco,0,0,0,0.64
+manipulable,manipulable,1,0,0,0.95
+manipulative,manipulativo,1,1,0,0.84
+manly,varonil,1,0,0,0.96
+mannerless,sin modales,1,0,0,0.87
+mannerly,educado,1,1,0,0.74
+mannish,varonil,0,0,0,0.89
+many-sided,multifacético,1,0,0,0.73
+masculine,masculino,1,1,0,0.92
+masochistic,masoquista,1,1,0,0.69
+matchmaking,casamentero,0,0,0,0.96
+materialistic,materialista,1,0,0,0.65
+maternal,materno,1,0,0,0.98
+mathematical,matemático,0,0,0,0.67
+matriarchal,matriarcal,0,0,0,0.94
+matronly,matronal,0,0,0,0.73
+matter-of-fact,cuestión de hecho,1,0,0,0.61
+mature,maduro,1,1,0,0.96
+maudlin,sensiblero,0,0,0,0.36
+mawkish,empalagoso,0,0,0,0.34
+mean,significar,0,0,1,0.8
+mean-spirited,mezquino,0,0,0,0.72
+meandering,serpenteante,0,0,0,0.79
+mechanistic,mecánico,1,0,0,0.78
+meddlesome,entrometido,1,1,0,0.88
+meddling,intromisión,0,0,0,0.92
+meditative,meditativo,1,0,0,0.65
+meek,manso,1,1,0,0.51
+megalomaniacal,megalómano,0,0,0,0.69
+melancholic,melancólico,1,1,0,0.75
+melancholy,melancolía,0,0,0,0.86
+mellow,meloso,0,0,0,0.69
+melodramatic,melodramático,1,0,0,0.89
+menacing,amenazador,0,0,0,0.85
+mendacious,mendaz,0,0,0,0.17
+mendicant,mendicante,0,0,0,0.25
+mentoring,tutoría,0,0,0,0.98
+mercenary,mercenario,1,0,0,0.36
+merciful,misericordioso,1,0,0,0.86
+merciless,despiadado,1,0,0,0.86
+mercurial,mercurial,0,0,0,0.29
+merry,alegre,1,1,0,0.97
+messy,desordenado,1,0,0,0.99
+methodical,metódico,1,0,0,0.82
+meticulous,meticuloso,1,1,0,0.91
+middle-aged,de edad mediana,0,0,0,0.93
+middle-class,clase media,0,0,0,0.97
+mild,leve,1,0,0,0.59
+mild-hearted,apacible,1,0,0,0.75
+militant,militante,1,0,0,0.81
+militaristic,militarista,0,0,0,0.85
+mindful,consciente de,0,0,0,0.83
+minimizing,minimizando,0,0,0,0.66
+ministerial,ministerial,0,0,0,0.76
+ministrative,ministrativo,1,0,0,0.54
+mirthful,alegre,1,0,0,0.58
+mirthless,sin alegría,1,0,0,0.48
+misanthropic,misantrópico,0,0,0,0.43
+mischievous,dañoso,1,1,0,0.72
+miserable,miserable,0,0,0,0.81
+miserly,avaro,1,0,0,0.57
+misleadable,engañoso,1,0,0,0.63
+mistrustful,desconfiado,1,0,0,0.92
+mocking,burlón,0,0,0,0.9
+moderate,moderar,1,0,0,0.87
+modern,moderno,0,0,0,0.95
+modest,modesto,1,1,1,0.89
+moldable,moldeable,1,0,0,0.67
+money-grubbing,avaricia,0,0,0,0.81
+monkish,monacal,0,0,0,0.34
+monosyllabic,monosilábico,1,0,0,0.76
+monotonous,monótono,0,0,0,0.82
+moody,temperamental,1,1,1,0.87
+moony,distraído,0,0,0,0.32
+moping,deprimido,0,0,0,0.82
+moral,moral,1,1,0,0.87
+moralistic,moralizador,1,1,0,0.5
+moralizing,moralizador,1,0,0,0.52
+morbid,mórbido,1,0,0,0.77
+moronic,imbécil,0,0,0,0.89
+morose,malhumorado,1,0,0,0.69
+mothering,cuidados maternales,0,0,0,0.92
+motherly,maternal,0,0,0,0.96
+motley,abigarrado,0,0,0,0.51
+mousy,ratoncito,1,0,0,0.77
+mouthy,pomposo,0,0,0,0.92
+muddle-headed,confuso,1,0,0,0.81
+mulish,testarudo,1,0,0,0.43
+mumbling,masculleo,0,0,0,0.95
+mundane,mundano,1,0,0,0.93
+munificent,munificente,0,0,0,0.41
+murderous,asesino,1,0,0,0.97
+muscular,muscular,0,0,0,0.98
+mushy,pulposo,1,0,0,0.77
+musical,musical,1,0,0,0.95
+mussy,mussy,1,0,0,0.5
+mutinous,rebelde,1,0,0,0.65
+mysterious,misterioso,0,0,0,0.96
+mystical,místico,1,0,0,0.84
+nagging,persistente,1,0,0,0.99
+naive,ingenuo,1,1,0,0.85
+namby-pamby,namby-pamby,0,0,0,0.39
+narrow,estrecho,1,0,0,0.36
+narrow-minded,de mente estrecha,1,0,0,0.81
+nasty,desagradable,0,0,0,0.74
+nationalistic,nacionalista,0,0,0,0.94
+natural,natural,1,1,0,0.57
+naughty,travieso,0,0,0,0.87
+neat,ordenado,0,0,0,0.94
+needy,necesitado,0,0,0,0.73
+nefarious,vil,0,0,0,0.8
+negative,negativo,1,0,0,0.83
+negativistic,negativo,1,1,0,0.36
+neglected,descuidado,0,0,0,0.93
+neglectful,negligente,1,0,0,0.96
+neglecting,descuidar,0,0,0,0.89
+negligent,negligente,1,1,0,0.67
+neighborly,amistoso,1,0,0,0.92
+nervous,nervioso,1,1,1,0.54
+nervy,nervioso,1,0,0,0.3
+neurotic,neurótico,0,0,0,0.88
+neutral,neutral,0,0,0,0.96
+nice,bonito,0,0,1,0.47
+niggardly,tacaño,1,0,0,0.43
+nihilistic,nihilista,0,0,0,0.65
+nimble-witted,ingenioso,1,0,0,0.57
+noble,noble,0,0,0,0.8
+nocturnal,nocturno,0,0,0,0.94
+noisy,ruidoso,1,0,0,0.91
+nonbelligerent,no beligerante,1,0,0,0.63
+nonchalant,despreocupado,1,1,0,0.87
+noncoercive,no coercitivo,1,0,0,0.78
+noncommittal,evasivo,0,0,0,0.59
+noncompliant,incumplidor,1,0,0,0.87
+nonconforming,no conforme,1,1,0,0.95
+nondescript,mediocre,0,0,0,0.79
+nonegotistical,no egoísta,1,0,0,0.65
+nonexplosive,no explosivo,1,0,0,0.59
+nonhostile,no hostil,1,0,0,0.69
+nonimitative,no imitativo,1,0,0,0.6
+noninterfering,no interferir,1,0,0,0.84
+nonirritable,no irritable,1,0,0,0.71
+nonpersistent,no persistente,1,1,0,0.53
+nonrational,irracional,1,0,0,0.87
+nonreligious,no religioso,1,1,0,0.85
+nonrigid,no rígido,1,0,0,0.44
+nonsensical,absurdo,0,0,0,0.89
+nonspiritual,no espiritual,1,0,0,0.94
+nonunderstanding,incomprensión,1,0,0,0.72
+nonvariant,invariable,1,0,0,0.64
+nonvocal,no vocal,1,0,0,0.92
+nonvolatile,No volátil,1,0,0,0.48
+normal,normal,0,0,0,0.85
+nosy,curioso,1,1,0,0.85
+noticeable,perceptible,0,0,0,0.91
+nurturing,nutriendo,0,0,0,0.86
+nutty,de nuez,0,0,0,0.69
+nymphomaniacal,ninfómana,0,0,0,0.88
+obdurate,obstinado,0,0,0,0.28
+obedient,obediente,0,0,0,0.92
+obeying,obedecer,0,0,0,0.89
+objective,objetivo,1,1,0,0.68
+obliging,servicial,1,1,0,0.91
+oblivious,inadvertido,0,0,0,0.82
+obnoxious,desagradable,0,0,0,0.95
+obscene,obsceno,0,0,0,0.78
+obsequious,servil,0,0,0,0.28
+observant,observante,1,0,0,0.88
+obsessive,obsesionante,1,1,1,0.81
+obstinate,obstinado,1,1,0,0.63
+obstreperous,estrepitoso,0,0,0,0.37
+obstructive,obstructivo,0,0,0,0.91
+obtrusive,entrometido,1,0,0,0.87
+obtuse,obtuso,0,0,0,0.55
+odd,impar,0,0,0,0.7
+off-color,descolorido,0,0,0,0.77
+offensive,ofensiva,0,0,0,0.77
+officious,oficioso,0,0,0,0.28
+old,viejo,0,0,0,0.98
+old-fashioned,Anticuado,1,0,0,0.96
+oleaginous,oleoso,0,0,0,0.19
+ominous,ominoso,0,0,0,0.82
+one-sided,Unilateral,1,0,0,0.7
+opaque,opaco,0,0,0,0.56
+open,abierto,0,0,0,0.78
+open-ended,Abierto,0,0,0,0.56
+open-faced,cara abierta,0,0,0,0.36
+open-hearted,de corazón abierto,1,0,0,0.26
+open-minded,mente abierta,1,0,0,0.81
+opinionated,dogmático,1,1,0,0.79
+opportunistic,oportunista,1,1,0,0.87
+optimistic,optimista,1,1,1,0.9
+orderly,ordenado,1,1,0,0.86
+ordinary,ordinario,0,0,0,0.94
+organized,organizado,1,1,0,0.94
+original,original,1,0,0,0.81
+ornery,desagradable,1,0,0,0.69
+orthodox,ortodoxo,0,0,0,0.79
+ostentatious,ostentoso,1,0,0,0.46
+other-worldly,de otro mundo,1,0,0,0.86
+otherworldly,de otro mundo,0,0,0,0.93
+outgoing,extrovertido,1,0,1,0.85
+outraged,indignado,0,0,0,0.92
+outspoken,abierto,1,1,0,0.83
+outstanding,sobresaliente,0,0,0,0.95
+overactive,hiperactiva,1,0,0,0.79
+overambitious,demasiado ambicioso,1,0,0,0.9
+overanxious,demasiado preocupado,0,0,0,0.9
+overbearing,despótico,1,0,0,0.89
+overbitter,demasiado amargo,1,0,0,0.26
+overbold,temerario,1,0,0,0.49
+overbookish,overbookish,1,0,0,0.83
+overbrave,valiente,1,0,0,0.65
+overbusy,sobrecargado,1,0,0,0.71
+overcareful,demasiado cuidadoso,1,0,0,0.83
+overcaring,cariñoso,1,0,0,0.93
+overcasual,overcasual,1,0,0,0.68
+overcautious,demasiado cauteloso,1,0,0,0.92
+overcharitable,caritativo,1,0,0,0.52
+overcompassionate,demasiado compasivo,0,0,0,0.91
+overconfident,demasiado seguro,1,0,0,0.93
+overconscientious,demasiado concienzudo,1,0,0,0.77
+overcredulous,exagerado,1,0,0,0.43
+overcritical,demasiado crítico,1,0,0,0.8
+overcunning,abrumador,1,0,0,0.58
+overcurious,demasiado curioso,1,0,0,0.91
+overdaring,excesivo,1,0,0,0.76
+overdiligent,sobrediligente,1,0,0,0.58
+overeager,demasiado ansioso,0,0,0,0.77
+overearnest,demasiado grande,1,0,0,0.65
+overelegant,demasiado elegante,1,0,0,0.81
+overemotional,sobreemocional,1,0,0,0.88
+overemphatic,demasiado enfático,1,0,0,0.49
+overexcitable,sobreexcitable,1,0,0,0.9
+overfastidious,demasiado fastidioso,1,0,0,0.54
+overfearful,sobrecogedor,1,0,0,0.9
+overfierce,demasiado feroz,1,0,0,0.46
+overforward,exagerado,1,0,0,0.74
+overgreedy,demasiado codicioso,1,0,0,0.89
+overharsh,overharsh,1,0,0,0.8
+overhasty,apresurado,1,0,0,0.86
+overimaginative,demasiado imaginativo,1,0,0,0.84
+overindulgent,demasiado indulgente,1,0,0,0.93
+overintense,demasiado intenso,1,0,0,0.53
+overjealous,demasiado celoso,1,0,0,0.4
+overkind,sobrecogedor,1,0,0,0.58
+overlogical,exagerado,1,0,0,0.89
+overloud,muy ruidoso,1,0,0,0.76
+overlusty,demasiado lujurioso,1,0,0,0.48
+overmasculine,demasiado masculino,0,0,0,0.84
+overmerry,exagerar,1,0,0,0.6
+overmodest,exagerado,1,0,0,0.68
+overneat,sobrecargado,1,0,0,0.81
+overnervous,demasiado nervioso,1,0,0,0.66
+overpartial,demasiado parcial,1,0,0,0.81
+overparticular,demasiado particular,1,0,0,0.91
+overpassionate,apasionado,1,0,0,0.8
+overpatient,sobrepaciente,1,0,0,0.91
+overprompt,exagerar,1,0,0,0.35
+overproud,más orgullosa,1,0,0,0.75
+overquiet,demasiado silencioso,1,0,0,0.36
+overrash,sobrecargar,1,0,0,0.4
+overrated,sobrevalorado,0,0,0,0.86
+overrefined,demasiado refinado,1,0,0,0.68
+overrelaxed,demasiado relajado,1,0,0,0.71
+overrighteous,demasiado justo,1,0,0,0.66
+overrigid,demasiado rígido,1,0,0,0.71
+overrigorous,demasiado riguroso,1,0,0,0.6
+overscrupulous,demasiado escrupuloso,1,0,0,0.79
+oversensitive,hipersensible,1,0,0,0.91
+oversentimental,demasiado sentimental,0,0,0,0.59
+overserious,demasiado serio,1,0,0,0.4
+oversevere,demasiado severo,1,0,0,0.52
+overslow,demasiado lento,1,0,0,0.32
+oversolicitous,excesivo,1,0,0,0.39
+overspeedy,exceso de velocidad,1,0,0,0.78
+overstepping,sobrepasar,0,0,0,0.87
+overstrict,demasiado estricto,1,0,0,0.89
+overstudious,demasiado estudioso,1,0,0,0.59
+oversubtle,demasiado sutil,1,0,0,0.19
+oversuspicious,demasiado sospechoso,1,0,0,0.88
+overtalkative,sobrealkativo,1,0,0,0.94
+overthoughtful,demasiado pensativo,1,0,0,0.82
+overtolerant,tolerante,0,0,0,0.44
+overtrained,sobreentrenado,1,0,0,0.85
+overtrusting,excesivo,1,0,0,0.92
+overvaliant,sobrevaliente,1,0,0,0.51
+overviolent,demasiado violento,1,0,0,0.57
+overwary,cansado,1,0,0,0.82
+overweening,arrogante,0,0,0,0.14
+overwhelmed,agobiado,0,0,0,0.84
+overwomanly,demasiado femenino,1,0,0,0.73
+overworked,sobrecargado de trabajo,0,0,0,0.97
+overzealous,demasiado entusiasta,1,0,0,0.9
+pacifistic,pacifista,1,0,0,0.84
+pacifying,pacificante,0,0,0,0.82
+painstaking,esmerado,1,0,0,0.6
+pandering,complaciente,0,0,0,0.72
+panicky,lleno de pánico,0,0,0,0.95
+paranoid,paranoico,0,0,0,0.95
+parasitic,parásito,0,0,0,0.73
+parental,de los padres,0,0,0,0.93
+parsimonious,parsimonioso,0,0,0,0.27
+participative,participativo,1,0,0,0.84
+particular,especial,1,0,0,0.77
+partisan,partidista,0,0,0,0.81
+passionate,apasionado,1,1,0,0.87
+passionless,desapasionado,1,1,0,0.86
+passive,pasivo,1,1,0,0.92
+paternal,paternal,0,0,0,0.93
+pathetic,patético,0,0,0,0.54
+patient,paciente,1,1,1,0.82
+patriarchal,patriarcal,0,0,0,0.84
+patriotic,patriótico,0,0,0,0.96
+patronizing,protector,1,1,0,0.79
+peaceful,tranquilo,1,1,0,0.95
+peacemaking,pacificación,1,0,0,0.93
+peculiar,peculiar,0,0,0,0.9
+pedagogical,pedagógico,0,0,0,0.34
+pedantic,pedante,0,0,0,0.36
+pedestrian,peatonal,0,0,0,0.54
+peevish,malhumorado,1,0,0,0.59
+penetrative,penetrante,1,0,0,0.32
+penitent,penitente,0,0,0,0.69
+penny-wise,centavo,0,0,0,0.2
+pensive,pensativo,1,0,0,0.62
+peppery,picante,1,0,0,0.61
+peppy,lleno de vida,1,0,0,0.94
+perceiving,percibiendo,0,0,0,0.97
+perceptive,perceptivo,1,1,0,0.84
+perfectionistic,perfeccionista,1,1,0,0.92
+peripatetic,peripatético,0,0,0,0.17
+perky,alegre,1,0,0,0.85
+persecuting,perseguir,0,0,0,0.35
+persecutive,perseguidor,1,0,0,0.33
+persevering,perseverante,1,0,0,0.79
+persistent,persistente,1,1,1,0.92
+personable,de buen ver,0,0,0,0.73
+perspectiveless,sin perspectiva,1,0,0,0.63
+perspicacious,perspicaz,0,0,0,0.32
+persuadable,fácil de convencer,1,0,0,0.92
+persuasive,persuasivo,1,0,0,0.97
+pert,impertinente,1,0,0,0.29
+perturbable,perturbador,1,0,0,0.61
+perverse,perverso,0,0,0,0.22
+perverted,pervertido,0,0,0,0.72
+pesky,maldito,0,0,0,0.86
+pessimistic,pesimista,1,1,1,0.66
+petty,pequeño,1,0,0,0.68
+petulant,malhumorado,0,0,0,0.62
+philandering,flirteo,0,0,0,0.63
+philanthropic,filantrópico,1,0,0,0.86
+philosophical,filosófico,1,1,0,0.93
+philosophizing,filosofar,1,0,0,0.5
+phony,falso,0,0,0,0.95
+physical,físico,0,0,0,0.38
+picky,quisquilloso,1,0,0,0.91
+piggish,glotón,0,0,0,0.95
+pigheaded,cabezón,1,0,0,0.76
+pioneering,pionero,0,0,0,0.89
+pious,piadoso,1,0,0,0.72
+pithy,sustancial,0,0,0,0.1
+pitiless,despiadado,1,0,0,0.53
+placating,apaciguador,0,0,0,0.7
+placid,plácido,1,1,0,0.84
+plain,sencillo,0,0,0,0.89
+plain-dealing,trato sencillo,1,0,0,0.8
+plain-spoken,franco,1,0,0,0.62
+planful,planificado,1,0,0,0.33
+planless,sin plan,1,0,0,0.74
+platitudinous,trivial,0,0,0,0.44
+playful,juguetón,1,1,0,0.92
+pleasant,agradable,1,1,0,0.63
+pleased,satisfecho,0,0,0,0.71
+pleasing,agradable,0,0,0,0.9
+pleasure-loving,amante del placer,0,0,0,0.73
+pleasure-seeking,buscando placer,1,0,0,0.94
+pliable,flexible,1,0,0,0.59
+pliant,flexible,1,0,0,0.65
+plodding,laborioso,0,0,0,0.66
+plotting,Graficado,0,0,0,0.96
+plucky,valeroso,1,0,0,0.38
+poetic,poético,1,0,0,0.63
+poised,listo,1,1,0,0.87
+polemical,polémico,0,0,0,0.23
+polished,pulido,1,0,0,0.96
+polite,Cortés,1,1,0,0.74
+political,político,1,0,0,0.96
+pompous,pomposo,1,1,1,0.88
+ponderous,pesado,0,0,0,0.23
+pontifical,pontifical,0,0,0,0.34
+pooh-poohing,pooh-pooping,0,0,0,0.55
+poor,pobre,0,0,0,0.93
+popular,popular,0,0,0,0.92
+posed,planteado,1,0,0,0.34
+positive,positivo,0,0,0,0.93
+possessive,posesivo,1,1,0,0.94
+pouty,puchero,1,0,0,0.97
+powerful,poderoso,0,0,0,0.9
+practical,práctico,1,1,1,0.65
+pragmatic,pragmático,0,0,0,0.75
+praising,alabando,0,0,0,0.85
+prankish,travieso,1,0,0,0.88
+prayerful,devoto,1,0,0,0.88
+preaching,predicación,0,0,0,0.84
+preachy,sermoneador,1,0,0,0.75
+precise,preciso,1,1,0,0.99
+precocious,precoz,0,0,0,0.41
+precondemning,precondenando,1,0,0,0.85
+predatory,depredador,1,0,0,0.93
+predictable,previsible,1,1,0,0.81
+prejudiced,parcial,1,1,0,0.91
+prejudiceless,sin prejuicios,1,0,0,0.61
+premeditative,premeditado,1,0,0,0.9
+preoccupied,preocupado,0,0,0,0.85
+presentable,presentable,0,0,0,0.9
+presumptuous,presuntuoso,1,0,0,0.45
+pretenseful,fingido,1,0,0,0.4
+pretenseless,sin pretensiones,1,0,0,0.38
+pretentious,pretencioso,1,1,0,0.7
+pretty,lindo,0,0,0,0.64
+prickly,espinoso,0,0,0,0.24
+prideful,orgulloso,0,0,0,0.88
+prideless,sin orgullo,1,0,0,0.71
+priggish,pedante,0,0,0,0.45
+prim,remilgado,1,0,0,0.52
+principled,de principios,1,1,0,0.87
+prissy,remilgado,0,0,0,0.94
+private,privado,0,0,0,0.8
+privileged,privilegiado,0,0,0,0.9
+probing,sondeo,0,0,0,0.87
+procrastinating,procrastinar,0,0,0,0.95
+productive,productivo,1,0,0,0.89
+profane,profano,1,0,0,0.69
+professional,profesional,0,0,0,0.78
+profligate,libertino,0,0,0,0.35
+profound,profundo,1,0,0,0.68
+prognosticating,pronosticando,0,0,0,0.5
+progressive,progresivo,1,1,0,0.8
+prominent,prominente,0,0,0,0.83
+promiscuous,promiscuo,0,0,0,0.39
+prompt,inmediato,1,1,0,0.89
+proper,adecuado,1,0,0,0.85
+prophetic,profético,1,0,0,0.94
+prosaic,prosaico,0,0,0,0.18
+prosperous,próspero,0,0,0,0.96
+protective,protector,1,0,0,0.94
+proud,orgulloso,1,1,0,0.87
+provincial,provincial,1,0,0,0.47
+provocable,provocador,1,0,0,0.84
+provocative,provocativo,0,0,0,0.87
+prudent,prudente,1,0,0,0.68
+prudish,mojigato,1,1,0,0.56
+prurient,lascivo,0,0,0,0.3
+psychopathic,psicopático,0,0,0,0.78
+Puckish,Travieso,0,0,0,0.51
+pugnacious,belicoso,0,0,0,0.33
+punctilious,puntilloso,0,0,0,0.35
+punctual,puntual,1,1,0,0.96
+punishing,agotador,0,0,0,0.57
+pure,puro,0,0,0,0.95
+puritanical,puritano,1,0,0,0.68
+purposeful,útil,1,1,0,0.76
+purposeless,sin objetivo,1,0,0,0.81
+purposive,deliberado,1,0,0,0.6
+pusillanimous,pusilánime,0,0,0,0.19
+quaint,pintoresco,0,0,0,0.86
+quarrelsome,peleón,1,1,0,0.92
+querulous,quejumbroso,0,0,0,0.49
+questioning,interrogatorio,1,0,0,0.83
+quibbling,sutilezas,0,0,0,0.68
+quick,rápido,1,0,0,0.84
+quick-tempered,irascible,1,0,0,0.95
+quick-witted,ingenioso,1,0,0,0.94
+quiet,tranquilo,1,1,0,0.98
+quiet-spoken,hablado en voz baja,1,0,0,0.92
+quirky,peculiar,0,0,0,0.85
+quixotic,quijotesco,0,0,0,0.26
+racy,picante,0,0,0,0.82
+radical,radical,0,0,0,0.68
+rakish,libertino,0,0,0,0.29
+rambling,trepador,0,0,0,0.7
+rambunctious,bullicioso,1,1,0,0.88
+rancorous,rencoroso,0,0,0,0.56
+randy,cachondo,0,0,0,0.58
+rapacious,rapaz,0,0,0,0.42
+rapturous,extático,0,0,0,0.43
+rascally,pícaro,1,0,0,0.74
+rash,sarpullido,1,1,0,0.71
+rational,racional,1,1,1,0.94
+raucous,estridente,0,0,0,0.78
+raunchy,obsceno,0,0,0,0.92
+reactionary,reaccionario,0,0,0,0.19
+realistic,realista,1,0,0,0.76
+reasonable,razonable,1,1,0,0.94
+reassuring,tranquilizador,0,0,0,0.87
+rebellious,rebelde,1,1,0,0.75
+recalcitrant,recalcitrante,0,0,0,0.3
+receiving,recepción,0,0,0,0.93
+receptive,receptivo,0,0,0,0.85
+reckless,imprudente,1,1,0,0.94
+reclusive,solitario,1,0,0,0.92
+recondite,recóndito,0,0,0,0.14
+redoubtable,temible,0,0,0,0.13
+refined,refinado,1,1,0,0.81
+reflective,reflexivo,1,0,0,0.82
+reformative,reformativo,1,0,0,0.87
+refreshing,refrescante,0,0,0,0.47
+regal,real,0,0,0,0.54
+regular,regular,0,0,0,0.96
+relaxed,relajado,1,1,0,0.87
+relentless,implacable.despiadado,1,0,0,0.83
+reliable,de confianza,1,1,1,0.97
+reliant,confiado,1,0,0,0.91
+religious,religioso,1,1,0,0.98
+reluctant,reacio,0,0,0,0.7
+remarkable,Notable,0,0,0,0.88
+remorseful,arrepentido,0,0,0,0.95
+remorseless,implacable,1,0,0,0.43
+repressed,reprimido,0,0,0,0.86
+reproachful,lleno de reproches,1,0,0,0.48
+resentful,resentido,1,0,0,0.85
+reserved,reservado,1,1,1,0.65
+resigned,renunciar,0,0,0,0.77
+resilient,elástico,1,0,0,0.87
+resistant,resistente,0,0,0,0.44
+resolute,resuelto,0,0,0,0.79
+resolved,resuelto,0,0,0,0.73
+resourceful,ingenioso,1,0,0,0.86
+respectable,respetable,0,0,0,0.94
+respected,respetado,0,0,0,0.92
+respectful,respetuoso,1,1,0,0.86
+responsible,responsable,1,1,0,0.84
+responsive,sensible,1,0,0,0.88
+restive,intranquilo,0,0,0,0.21
+restless,inquieto,1,1,0,0.95
+restrainable,sobrio,1,0,0,1
+restrained,contenido,1,1,0,0.68
+retaliative,represalia,1,0,0,0.83
+retarded,retrasado,0,0,0,0.86
+reticent,reticente,0,0,0,0.43
+retiring,saliente,1,0,0,0.2
+retortive,réplica,1,0,0,0.61
+revengeful,vengativo,1,0,0,0.92
+reverent,reverente,1,1,0,0.42
+rhythmic,rítmico,0,0,0,0.85
+rich,Rico,0,0,0,0.97
+ridiculous,ridículo,0,0,0,0.75
+righteous,justo,0,0,0,0.9
+rigid,rígido,1,1,0,0.83
+rigorous,riguroso,1,0,0,0.48
+risque,de color subido,1,0,0,0.61
+ritualistic,ritualista,1,0,0,0.92
+rivalrous,rival,1,0,0,0.94
+roguish,picaresco,1,0,0,0.5
+rollicking,alegre,1,0,0,0.51
+romantic,romántico,0,0,0,0.69
+rootless,desarraigado,1,0,0,0.73
+rough,áspero,1,1,0,0.43
+rough-and-ready,áspero y listo,0,0,0,0.68
+rowdy,ruidoso,1,0,0,0.9
+rudderless,sin timón,0,0,0,0.6
+rude,maleducado,1,1,0,0.92
+rueful,triste,0,0,0,0.38
+rugged,escabroso,1,0,0,0.85
+ruminative,rumiativo,0,0,0,0.55
+rumpled,arrugado,0,0,0,0.82
+run-down,atropellar,0,0,0,0.77
+rushed,apresuraron,0,0,0,0.56
+rustic,rústico,0,0,0,0.61
+ruthless,implacable,1,1,1,0.95
+saccharine,sacarina,1,0,0,0.56
+sacrilegious,sacrílego,0,0,0,0.48
+sad,triste,0,0,0,0.94
+sadistic,sádico,1,0,0,0.9
+sagacious,sagaz,0,0,0,0.29
+sage,sabio,0,0,0,0.59
+saintly,santo,1,0,0,0.72
+salacious,salaz,0,0,0,0.62
+salty,salado,0,0,0,0.33
+salubrious,saludable,0,0,0,0.33
+sanctimonious,mojigato,0,0,0,0.84
+sanguine,optimista,0,0,0,0.18
+sappy,lleno de savia,0,0,0,0.83
+sarcastic,sarcástico,1,1,1,0.69
+sardonic,sardónico,0,0,0,0.58
+sassy,pícaro,1,0,0,0.72
+satirical,satírico,1,0,0,0.54
+satisfied,satisfecho,0,0,0,0.92
+saturnine,saturnino,0,0,0,0.24
+saucy,fresco,1,0,0,0.37
+savage,salvaje,0,0,0,0.93
+scampish,pillo,1,0,0,0.64
+scandalmongering,escándalo,1,0,0,0.54
+scandalous,escandaloso,0,0,0,0.86
+scared,asustado,0,0,0,0.98
+scary,de miedo,0,0,0,0.89
+scatterbrained,atolondrado,1,1,0,0.93
+scattered,dispersado,0,0,0,0.74
+scheduled,programado,0,0,0,0.8
+scheming,maquinación,1,0,0,0.88
+scholarly,erudito,1,0,0,0.91
+scholastic,escolar,0,0,0,0.94
+scientific,científico,0,0,0,0.75
+scoffing,burla,0,0,0,0.86
+scornful,desdeñoso,1,1,0,0.89
+scowling,ceñudo,0,0,0,0.95
+scrappy,deshilvanado,1,0,0,0.63
+screwy,absurdo,0,0,0,0.59
+scrounging,gorronería,0,0,0,0.61
+scrupulous,escrupuloso,1,1,0,0.62
+seclusive,solitario,1,0,0,0.89
+secretive,reservado,1,1,1,0.97
+secure,seguro,0,0,0,0.54
+sedate,sosegado,1,1,0,0.1
+sedentary,sedentario,0,0,0,0.76
+seditious,sedicioso,0,0,0,0.4
+seductive,seductor,0,0,0,0.91
+seedy,sórdido,0,0,0,0.65
+seething,hirviente,0,0,0,0.6
+selective,selectivo,0,0,0,0.84
+self-absorbed,ensimismado,0,0,0,0.98
+self-actualized,autorrealizado,0,0,0,0.71
+self-assertive,autoafirmante,1,0,0,0.9
+self-assured,seguro de sí mismo,1,0,0,0.96
+self-centered,egocéntrico,1,0,1,0.94
+self-confident,seguro de sí mismo,1,0,0,0.85
+self-conscious,consciente de sí mismo,1,0,0,0.83
+self-consistent,autoconsistente,1,0,0,0.53
+self-contained,autónomo,0,0,0,0.84
+self-controlled,autocontrolado,1,0,0,0.95
+self-correcting,autocorregible,0,0,0,0.97
+self-critical,autocrítico,1,1,0,0.85
+self-deceiving,autoengaño,1,0,0,0.77
+self-defeating,contraproducente,1,0,0,0.88
+self-defensive,autodefensivo,1,0,0,0.84
+self-deluding,autoengaño,1,0,0,0.83
+self-denying,abnegación,1,0,0,0.78
+self-deprecating,autocrítico,1,0,0,0.82
+self-destructive,autodestructivo,1,0,0,0.99
+self-disciplined,Auto disciplinado,1,1,0,0.93
+self-disparaging,autodesprecio,1,0,0,0.82
+self-doubting,dudar de sí mismo,1,0,0,0.98
+self-educated,autodidacta,0,0,0,0.98
+self-effacing,modesto,1,0,0,0.48
+self-examining,autoexamen,1,0,0,0.87
+self-excusing,disculparse,1,0,0,0.77
+self-expressive,autoexpresivo,1,0,0,0.9
+self-important,engreído,1,0,0,0.88
+self-indulgent,Auto indulgente,1,1,0,0.93
+self-interested,interesado,0,0,0,0.95
+self-involved,auto-involucrado,0,0,0,0.93
+self-limiting,autolimitante,0,0,0,0.67
+self-loathing,autodesprecio,0,0,0,0.87
+self-pitying,autocompasión,1,1,0,0.95
+self-possessed,dueño de sí mismo,1,0,0,0.43
+self-punishing,autocastigo,1,0,0,0.99
+self-reflective,autorreflexivo,0,0,0,0.91
+self-regulating,autorregulado,0,0,0,0.94
+self-reliant,autosuficiente,1,0,0,0.78
+self-reproachful,auto-reproche,1,0,0,0.7
+self-respecting,respetarse a sí mismo,1,0,0,0.85
+self-restrained,autodidacta,1,0,0,0.94
+self-revealing,autorrevelador,1,0,0,0.93
+self-righteous,moralista,1,0,0,0.87
+self-sacrificing,abnegado,1,0,0,0.97
+self-satisfied,autosatisfecho,1,0,0,0.91
+self-seeking,egoísta,1,1,0,0.84
+self-sufficient,autosuficiente,1,0,0,0.94
+self-supporting,autosuficiente,0,0,0,0.95
+self-taught,autodidacta,0,0,0,0.96
+self-willed,voluntarioso,1,0,0,0.65
+selfish,egoísta,1,1,1,0.95
+selfless,desinteresado,1,1,0,0.79
+senile,senil,0,0,0,0.9
+sensation-seeking,la búsqueda de sensaciones,0,0,0,0.87
+senseless,sin sentido,0,0,0,0.7
+sensible,sensato,0,0,1,0.84
+sensing,sintiendo,0,0,0,0.43
+sensitive,sensible,1,1,1,0.76
+sensual,sensual,1,1,0,0.94
+sensuous,sensual,1,0,0,0.84
+sententious,sentencioso,0,0,0,0.19
+sentimental,sentimental,1,1,0,0.8
+serene,sereno,1,0,0,0.8
+serious,grave,1,1,1,0.64
+serious-minded,serio,1,0,0,0.71
+serpentine,serpentina,0,0,0,0.86
+servile,servil,1,0,0,0.83
+severe,grave,1,0,0,0.83
+sexless,asexuado,0,0,0,0.87
+sexy,sexy,1,1,0,0.89
+shady,sombreado,0,0,0,0.83
+shaky,tembloroso,0,0,0,0.64
+shallow,poco profundo,1,1,0,0.86
+shameless,desvergonzado,0,0,0,0.85
+sharp-tongued,lengua afilada,1,0,0,0.71
+sharp-witted,agudo,1,0,0,0.89
+sheepish,vergonzoso,0,0,0,0.69
+shiftless,perezoso,1,0,0,0.39
+shocking,impactante,0,0,0,0.85
+short,pequeño,0,0,0,0.49
+short-spoken,de habla corta,1,0,0,0.8
+short-tempered,de mal genio,1,0,0,0.98
+shortsighted,miope,1,0,0,0.89
+showy,llamativo,1,0,0,0.88
+shrewd,perspicaz,1,1,0,0.48
+shrewish,de mal genio,1,0,0,0.7
+shrieking,chillidos,0,0,0,0.95
+shrill,estridente,0,0,0,0.96
+shrinking,contracción,1,0,0,0.77
+shy,tímido,1,1,1,0.88
+sick,enfermo,0,0,0,0.89
+sickly,enfermizo,0,0,0,0.61
+significant,significativo,0,0,0,0.86
+silent,silencio,1,1,0,0.85
+silly,tonto,0,0,0,0.74
+simple,sencillo,1,1,0,0.77
+simpleminded,ingenuo,0,0,0,0.94
+sincere,sincero,1,1,1,0.87
+sinful,pecaminoso,0,0,0,0.74
+single-minded,resuelto,1,0,0,0.68
+sinister,siniestro,0,0,0,0.87
+sisterly,fraternal,0,0,0,0.89
+skeptical,escéptico,1,1,0,0.96
+sketchy,incompleto,0,0,0,0.85
+skilled,experto,0,0,0,0.96
+skillful,hábil,0,0,0,0.87
+skinny,muy delgado,0,0,0,0.96
+skittish,asustadizo,0,0,0,0.3
+slanderous,difamatorio,1,0,0,0.92
+slapdash,despreocupado,0,0,0,0.58
+slavish,servil,0,0,0,0.46
+sleazy,sórdido,0,0,0,0.52
+sleek,pulcro,0,0,0,0.96
+sleepy,somnoliento,0,0,0,0.33
+slender,esbelto,0,0,0,0.93
+slick,resbaloso,1,0,0,0.67
+slim,Delgado,0,0,0,0.98
+slinking,escabulléndose,0,0,0,0.8
+slippery,resbaladizo,0,0,0,0.55
+slipshod,poco correcto,0,0,0,0.68
+sloppy,descuidado,1,1,0,0.94
+slothful,perezoso,1,0,0,0.95
+slovenly,descuidado,1,0,0,0.6
+slow,lento,1,0,0,0.79
+slow-witted,torpe,1,0,0,0.91
+sluggish,lento,1,1,0,0.99
+sluttish,desaseado,0,0,0,0.83
+sly,astuto,1,1,0,0.9
+smart,inteligente,1,1,0,0.91
+smooth,liso,0,0,0,0.09
+smooth-spoken,de voz suave,1,0,0,0.92
+smug,presumido,1,1,0,0.75
+smutty,tiznado,0,0,0,0.83
+snarling,gruñido,0,0,0,0.95
+sneaky,furtivo,1,0,0,0.81
+sneering,burlador y despreciativo,0,0,0,0.59
+snide,sarcástico,0,0,0,0.83
+snippy,insolente,0,0,0,0.87
+sniveling,lloriqueando,0,0,0,0.69
+snobbish,snob,1,1,0,0.82
+snoopy,snoopy,1,0,0,0.69
+snooty,presumido,1,0,0,0.92
+sober,sobrio,0,0,0,0.67
+sober-minded,sobrio,1,0,0,0.74
+sociable,sociable,1,1,1,0.95
+social,social,1,1,0,0.79
+soft,suave,0,0,0,0.74
+soft-hearted,corazón blando,1,0,0,0.95
+soft-shelled,de caparazón blando,1,0,0,0.83
+soft-spoken,de voz suave,1,0,0,0.93
+soldierly,militar,0,0,0,0.69
+solemn,solemne,1,0,0,0.84
+solicitous,solícito,1,0,0,0.27
+solitary,solitario,0,0,0,0.96
+somber,sombrío,1,1,0,0.75
+soothing,calmante,0,0,0,0.5
+sophisticated,sofisticado,1,1,0,0.87
+sophomoric,estudiante de segundo año,0,0,0,0.42
+sorry,perdón,0,0,0,0.88
+soulful,conmovedor,0,0,0,0.68
+sour,agrio,1,0,0,0.71
+spare,repuesto,0,0,0,0.5
+sparkling,espumoso,1,0,0,0.4
+specific,específico,0,0,0,0.89
+speedy,rápido,1,0,0,0.94
+spineless,sin carácter,1,0,0,0.9
+spirited,enérgico,1,1,0,0.92
+spiritless,sin ánimo,1,0,0,0.82
+spiritual,espiritual,1,0,0,0.95
+spiteful,malévolo,1,0,0,0.87
+splenetic,esplénico,0,0,0,0.1
+spoiled,consentido,0,0,0,0.85
+spontaneous,espontáneo,1,1,0,0.68
+sporting,deportivo,0,0,0,0.23
+sportsmanlike,caballeroso,1,0,0,0.92
+sporty,deportivo,0,0,0,0.51
+sprightly,animado,1,0,0,0.77
+spritely,alegremente,0,0,0,0.77
+spry,ágil,1,0,0,0.82
+spunky,guaperas,1,0,0,0.66
+sputtering,chisporroteo,0,0,0,0.55
+spying,espionaje,0,0,0,0.83
+squeamish,delicado,1,0,0,0.57
+stable,estable,1,0,0,0.95
+stalwart,leal,1,0,0,0.5
+standoffish,distante,1,0,0,0.88
+star-crossed,estrellado,0,0,0,0.39
+stark,rígido,0,0,0,0.57
+startling,alarmante,0,0,0,0.63
+stately,majestuoso,0,0,0,0.68
+statesmanlike,estadista,1,0,0,0.78
+statistical,estadístico,0,0,0,0.91
+steadfast,firme,1,0,0,0.85
+steady,firme,1,1,0,0.59
+steadying,estabilizando,0,0,0,0.69
+stealthy,cauteloso,0,0,0,0.7
+steely,acerado,0,0,0,0.64
+stentorian,estentóreo,0,0,0,0.18
+stern,popa,1,1,0,0.89
+stiff,rígido,0,0,0,0.76
+stifling,sofocante,0,0,0,0.67
+stinging,escozor,0,0,0,0.81
+stingy,tacaño,1,1,0,0.88
+stodgy,pesado,0,0,0,0.59
+stoic,estoico,0,0,0,0.79
+stolid,flemático,0,0,0,0.37
+stormy,Tormentoso,1,0,0,0.6
+stout-hearted,valiente,1,0,0,0.56
+straightforward,simple,1,1,0,0.93
+strait-laced,puritano,1,0,0,0.75
+strange,extraño,0,0,0,0.9
+strict,estricto,1,1,0,0.88
+stringent,riguroso,1,0,0,0.83
+strong,fuerte,0,0,0,0.86
+strong-minded,Mente fuerte,1,0,0,0.87
+strong-willed,de voluntad fuerte,0,0,0,0.81
+stubborn,testarudo,1,1,1,0.88
+stuck-up,pegado para arriba,1,0,0,0.8
+studious,estudioso,1,0,0,0.68
+stuffy,cargado,1,0,0,0.64
+stupid,estúpido,0,0,0,0.63
+sturdy,robusto,0,0,0,0.91
+stylish,elegante,0,0,0,0.95
+suave,afable,1,0,0,0.67
+subdued,sometido,0,0,0,0.82
+subjective,subjetivo,1,1,0,0.67
+submissive,sumiso,1,1,0,0.84
+subservient,subordinado,0,0,0,0.88
+substantive,sustantivo,0,0,0,0.54
+subversive,subversivo,0,0,0,0.66
+successful,exitoso,0,0,0,0.7
+sugary,azucarado,1,0,0,0.7
+suggestible,sugestionable,1,1,0,0.86
+sulky,malhumorado,1,0,0,0.6
+sullen,hosco,1,0,0,0.8
+sultry,bochornoso,1,0,0,0.68
+sunny,soleado,1,0,0,0.96
+supercilious,arrogante,0,0,0,0.22
+superficial,superficial,1,0,1,0.84
+superior,superior,0,0,0,0.45
+supersensitive,extremadamente sensible,1,0,0,0.83
+superstitious,supersticioso,1,1,0,0.69
+supportive,apoyo,0,0,0,0.99
+surly,hosco,1,1,0,0.62
+surprised,sorprendido,0,0,0,0.92
+surprising,sorprendente,0,0,0,0.83
+suspicious,suspicaz,1,1,0,0.92
+swaggering,fanfarrón,0,0,0,0.89
+swanky,ostentoso,0,0,0,0.72
+sweet,dulce,0,0,0,0.92
+swellheaded,hinchado,1,0,0,0.7
+sycophantic,servil,0,0,0,0.44
+sympathetic,simpático,1,1,0,0.93
+systematic,sistemático,1,1,0,0.95
+taciturn,taciturno,1,0,0,0.35
+tacky,pegajoso,0,0,0,0.83
+tactful,diplomático,1,1,1,0.62
+tactical,táctico,0,0,0,0.9
+tactile,táctil,0,0,0,0.63
+tactless,sin tacto,1,1,1,0.69
+talented,talentoso,0,0,0,0.95
+talkative,charlatán,1,1,0,0.91
+tall,alto,0,0,0,0.01
+tame,domar,1,0,0,0.58
+tasteful,de buen gusto,1,0,0,0.88
+tasteless,insípido,1,0,0,0.9
+tawdry,cursi,0,0,0,0.67
+teachable,educable,1,0,0,0.92
+tearful,lloroso,0,0,0,0.95
+teary,lloroso,0,0,0,0.96
+teasing,broma,0,0,0,0.95
+technical,técnico,0,0,0,0.9
+temperamental,temperamental,1,1,0,0.83
+temperate,templado,1,0,0,0.66
+tempestuous,tempestuoso,1,0,0,0.7
+temptable,tentador,1,0,0,0.8
+tenacious,tenaz,1,1,0,0.7
+tender,tierno,1,0,0,0.98
+tender-hearted,compasivo,1,0,0,0.93
+tenderminded,tierno,1,0,0,0.16
+tense,tiempo,1,0,0,0.92
+tentative,tentativo,1,0,0,0.67
+terrible,terrible,0,0,0,0.99
+terrific,fantástico,0,0,0,0.66
+terrifying,espantoso,0,0,0,0.95
+terse,breve,1,0,0,0.53
+testy,irascible,1,0,0,0.9
+thankful,agradecido,0,0,0,1
+thankless,ingrato,0,0,0,0.87
+theatrical,teatral,0,0,0,0.78
+theoretical,teórico,0,0,0,0.58
+thick,grueso,0,0,0,0.74
+thick-skinned,insensible,1,0,0,0.8
+thick-witted,tonto,1,0,0,0.64
+thickheaded,torpe,1,0,0,0.41
+thin,delgada,0,0,0,0.79
+thin-skinned,de piel fina,1,0,0,0.95
+thinking,pensando,0,0,0,0.7
+thorny,espinoso,0,0,0,0.52
+thorough,exhaustivo,1,1,0,0.84
+thoroughgoing,concienzudo,1,0,0,0.58
+thoughtful,considerado,1,1,1,0.96
+thoughtless,desconsiderado,1,1,0,0.69
+threatening,amenazante,0,0,0,0.91
+thriftless,ahorrativo,1,0,0,0.85
+thrifty,ahorrativo,1,1,0,0.82
+thundering,tremendo,0,0,0,0.55
+thunderous,atronador,0,0,0,0.81
+ticklish,cosquilloso,0,0,0,0.79
+tidy,ordenado,1,0,0,0.93
+tight,ajustado,1,0,0,0.73
+tight-lipped,labios apretados,1,0,0,0.9
+timid,tímido,1,1,0,0.91
+timorous,timorato,1,0,0,0.5
+tiny,diminuto,0,0,0,0.98
+tired,cansado,0,0,0,0.68
+tireless,incansable,1,0,0,0.92
+tolerant,tolerante,1,1,0,0.72
+torpid,aletargado,0,0,0,0.32
+touchy,quisquilloso,1,1,0,0.66
+tough,difícil,1,1,0,0.71
+tough-minded,de mente dura,1,0,0,0.55
+traditional,tradicional,1,1,0,0.92
+tragic,trágico,0,0,0,0.81
+traitorous,traidor,0,0,0,0.87
+tranquil,tranquilo,0,0,0,0.86
+transgressive,transgresor,0,0,0,0.63
+transparent,transparente,1,1,0,0.88
+treacherous,traicionero,1,0,0,0.73
+tremulous,trémulo,0,0,0,0.43
+trenchant,incisivo,0,0,0,0.15
+trendy,de moda,0,0,0,0.96
+tricky,difícil,1,0,0,0.83
+trim,podar,0,0,0,0.65
+troubled,preocupado,0,0,0,0.92
+troublesome,molesto,0,0,0,0.87
+truculent,agresivo,0,0,0,0.22
+trusted,de confianza,0,0,0,0.99
+trustful,confiado,1,1,0,0.72
+trusting,confiando,0,0,0,0.95
+trustworthy,digno de confianza,1,0,0,0.93
+trusty,fiel,0,0,0,0.87
+truthful,veraz,1,1,0,0.86
+truthless,sin verdad,1,0,0,0.52
+twisted,retorcido,0,0,0,0.74
+twitchy,nervioso,1,0,0,0.86
+tyrannical,tiránico,1,0,0,0.81
+ugly,feo,0,0,0,0.21
+ultraconservative,ultraconservador,1,0,0,0.75
+ultracritical,ultracrítico,1,0,0,0.7
+ultrademocratic,ultrademocrático,1,0,0,0.55
+ultrafastidious,ultrarrápido,1,0,0,0.66
+ultraintellectual,ultraintelectual,1,0,0,0.68
+ultrarefined,ultrarrefinado,1,0,0,0.66
+ultrareligious,ultrareligioso,1,0,0,0.7
+ultrasensual,ultrasensual,1,0,0,0.45
+ultrasentimental,ultrasentimental,1,0,0,0.45
+ultraspiritual,ultraespiritual,1,0,0,0.72
+unabashed,desvergonzado,0,0,0,0.7
+unable,incapaz,0,0,0,0.92
+unaccessible,inaccesible,1,0,0,0.84
+unaccommodating,desagradable,1,0,0,0.83
+unaccomplished,incumplido,1,0,0,0.73
+unaccountable,inexplicable,0,0,0,0.98
+unadaptable,inadaptable,1,0,0,0.94
+unadulterous,no adúltero,1,0,0,0.65
+unadventurous,poco aventurero,1,1,0,0.93
+unaffable,inafectado,1,0,0,0.47
+unaffected,inafectado,1,0,0,0.39
+unaffectionate,poco cariñoso,1,1,0,0.98
+unafraid,sin miedo,0,0,0,0.89
+unaggressive,poco agresivo,1,1,0,0.83
+unagreeable,desagradable,1,0,0,0.68
+unaiding,sin ayuda,1,0,0,0.86
+unalert,desapercibido,1,0,0,0.88
+unalterable,inalterable,1,0,0,0.7
+unambitious,poco ambicioso,1,1,0,0.89
+unamiable,inalcanzable,1,0,0,0.66
+unamusable,inactivo,1,0,0,0.78
+unanalytic,analítico,1,0,0,0.87
+unanchored,sin anclar,1,0,0,0.58
+unanimated,inanimado,1,0,0,0.72
+unappreciative,desagradecido,0,0,0,0.79
+unapproachable,inaccesible,1,0,0,0.67
+unargumentative,desargumentativo,1,0,0,0.72
+unartistic,poco artístico,1,0,0,0.93
+unashamed,sin vergüenza,0,0,0,0.82
+unaspiring,no aspirante,1,0,0,0.44
+unassertive,inseguro,1,0,0,0.83
+unassisting,sin ayuda,1,0,0,0.91
+unassuming,modesto,1,1,0,0.65
+unassured,no seguro,1,0,0,0.82
+unattractive,no atractivo,0,0,0,0.97
+unauthoritative,desautorizado,1,0,0,0.84
+unbalanced,desequilibrado,0,0,0,0.66
+unbashful,imprudente,1,0,0,0.77
+unbelievable,increíble,0,0,0,0.92
+unbelligerent,no beligerante,1,0,0,0.54
+unbendable,inflexible,1,0,0,0.71
+unbending,inflexible,1,0,0,0.74
+unbenevolent,poco benévolo,1,0,0,0.46
+unbewailing,indiferente,1,0,0,0.31
+unbiased,imparcial,1,0,0,0.93
+unbigoted,unbigoted,1,0,0,0.67
+unblushing,desvergonzado,1,0,0,0.45
+unboastful,desvergonzado,1,0,0,0.72
+unbold,atrevido,1,0,0,0.32
+unbookish,no libresco,1,0,0,0.84
+unbridled,desenfrenado,1,0,0,0.82
+unbusinesslike,poco práctico,1,0,0,0.2
+uncalculating,incalculable,1,0,0,0.6
+uncandid,descarado,1,0,0,0.64
+uncareful,descuidado,1,0,0,0.57
+uncautious,imprudente,1,0,0,0.86
+unceremonious,poco ceremonioso,1,0,0,0.51
+uncertain,incierto,0,0,0,0.76
+unchangeable,inmutable,1,0,0,0.83
+unchanging,inmutable,1,0,0,0.94
+uncharitable,poco caritativo,1,1,0,0.57
+unchaste,impúdico,1,0,0,0.54
+uncheerful,poco alegre,1,0,0,0.81
+uncheery,tristeza,1,0,0,0.7
+unchivalrous,poco caballeroso,1,0,0,0.89
+uncivil,incivil,1,0,0,0.87
+uncivilized,incivilizado,1,0,0,0.94
+unclear,poco claro,0,0,0,0.84
+uncollected,no cobrado,0,0,0,0.4
+uncomfortable,incómodo,0,0,0,0.56
+uncommunicative,poco comunicativo,1,1,0,0.91
+uncompanionable,insociable,1,0,0,0.82
+uncompassionate,sin compasión,1,0,0,0.9
+uncompetitive,no competitivo,1,1,0,0.7
+uncomplaining,sin quejarse,1,0,0,0.52
+uncomplaisant,incómodo,1,0,0,0.58
+uncomplicated,sencillo,0,0,0,0.88
+uncompromising,intransigente,1,0,0,0.93
+unconcealing,desvelar,1,0,0,0.65
+unconciliatory,inconciliatorio,1,0,0,0.52
+unconfident,desconfiado,1,0,0,0.65
+unconfiding,desconfiado,1,0,0,0.73
+unconformable,inconformable,1,0,0,0.3
+uncongenial,desagradable,0,0,0,0.74
+unconscientious,inconsciente,1,0,0,0.57
+unconstrainable,incontenible,1,0,0,0.87
+unconstrained,sin restricciones,1,0,0,0.8
+unconstructive,no constructivo,1,0,0,0.77
+uncontainable,incontenible,0,0,0,0.87
+uncontradictable,incontestable,1,0,0,0.74
+uncontriving,inconformista,1,0,0,0.35
+uncontrolled,sin control,1,0,0,0.8
+unconventional,poco convencional,1,1,0,0.91
+uncooperative,incooperativo,1,1,0,0.98
+uncordial,desagradable,1,0,0,0.72
+uncorrupted,incorrupto,0,0,0,0.89
+uncourteous,descortés,1,0,0,0.88
+uncourtly,descortés,1,0,0,0.62
+uncouth,tosco,1,1,0,0.74
+uncrafty,torpe,1,0,0,0.7
+uncreative,poco creativo,1,0,0,0.94
+uncritical,no crítico,1,0,0,0.86
+uncultivated,inculto,1,0,0,0.72
+uncultured,deseducado,1,0,0,0.84
+uncunning,desagradable,1,0,0,0.57
+uncurbable,incontrolable,1,0,0,0.39
+uncurious,poco curioso,1,0,0,0.81
+undaunted,impávido,0,0,0,0.8
+undeceivable,inconcebible,1,0,0,0.88
+undeceptive,engañoso,1,0,0,0.74
+undefeatable,invencible,1,0,0,0.94
+undelaying,deshacer,1,0,0,0.68
+undeliberate,no deliberado,1,0,0,0.85
+undeliberative,poco deliberado,1,0,0,0.63
+undemanding,poco exigente,1,1,0,0.86
+undemocratic,no democrático,1,0,0,0.62
+undemonstrative,poco efusivo,1,0,0,0.57
+undependable,poco confiable,1,1,0,0.94
+underhanded,deshonesto,1,1,0,0.76
+underogatory,injurioso,1,0,0,0.42
+understandable,comprensible,0,0,0,0.73
+understanding,comprensión,1,1,0,0.93
+underwitted,inconsciente,1,0,0,0.45
+undespairing,indiferente,1,0,0,0.63
+undespondent,desanimado,1,0,0,0.39
+undeviating,inquebrantable,1,0,0,0.58
+undevious,indecoroso,1,0,0,0.48
+undevout,undevout,1,0,0,0.88
+undignified,indigno,1,0,0,0.52
+undiligent,poco diligente,1,0,0,0.76
+undiplomatic,poco diplomático,1,0,0,0.66
+undisappointable,indiscutible,1,0,0,0.76
+undiscerning,indiferente,1,0,0,0.6
+undisciplined,indisciplinado,1,0,0,0.91
+undiscourageable,insoportable,1,0,0,0.86
+undiscriminating,indiscriminado,1,0,0,0.45
+undisguised,sin disfraz,1,0,0,0.8
+undisturbable,indiscutible,1,0,0,0.83
+undivertible,indivisible,1,0,0,0.82
+undogmatic,no dogmático,1,0,0,0.33
+undramatic,poco dramático,1,0,0,0.48
+undutiful,desleal,1,0,0,0.45
+uneager,impaciente,1,0,0,0.53
+unearnest,descortés,1,0,0,0.68
+uneasy,difícil,0,0,0,0.75
+uneconomical,antieconómico,1,0,0,0.87
+uneducated,deseducado,1,0,0,1
+unelusive,poco elusivo,1,0,0,0.68
+unembittered,sin amargura,1,0,0,0.59
+unemotional,impasible,1,1,0,0.85
+unemphatic,poco enfático,1,0,0,0.3
+unemployed,desempleados,0,0,0,0.94
+unencumbered,sin trabas,0,0,0,0.8
+unenergetic,sin energía,0,0,0,0.82
+unenlightened,no iluminado,1,0,0,0.67
+unenterprising,poco emprendedor,1,0,0,0.68
+unenthusiastic,poco entusiasta,1,0,0,0.87
+unenvious,indiferente,1,0,0,0.8
+unequivocal,inequívoco,0,0,0,0.56
+unerring,infalible,1,0,0,0.68
+unethical,poco ético,1,0,0,0.93
+unexacting,inexacto,1,0,0,0.41
+unexcitable,poco excitante,1,1,0,0.88
+unexpansive,poco expansivo,1,0,0,0.47
+unexplosive,no explosivo,1,0,0,0.54
+unextravagant,poco extravagante,1,0,0,0.3
+unextraverted,inextravertido,0,0,0,0.71
+unfailing,indefectible,1,0,0,0.69
+unfair,injusto,1,0,0,0.68
+unfaithful,infiel,1,0,0,0.94
+unfaltering,inquebrantable,1,0,0,0.76
+unfashionable,pasado de moda,0,0,0,0.92
+unfearing,insensible,1,0,0,0.89
+unfeeling,insensible,1,0,0,0.89
+unfeigning,sin fingir,1,0,0,0.38
+unfeminine,poco femenino,1,0,0,0.95
+unfettered,sin trabas,0,0,0,0.51
+unflagging,incansable,0,0,0,0.6
+unflinching,inquebrantable,1,0,0,0.8
+unfluctuating,no fluctuante,1,0,0,0.88
+unfluent,poco fluido,1,0,0,0.78
+unfocused,desenfocado,0,0,0,0.89
+unforbearing,implacable,1,0,0,0.22
+unforcible,insoportable,1,0,0,0.67
+unforgetful,inolvidable,1,0,0,0.58
+unforgettable,inolvidable,0,0,0,0.89
+unforgiving,implacable,1,1,0,0.87
+unforseeing,insensato,1,0,0,0.72
+unfraternal,poco fraternal,1,0,0,0.76
+unfriendly,hostil,1,1,0,0.67
+unfrugal,infructuoso,1,0,0,0.61
+ungainly,desgarbado,0,0,0,0.5
+ungallant,descortés,1,0,0,0.76
+ungenerous,poco generoso,1,0,0,0.42
+ungenteel,ungenteel,1,0,0,0.71
+ungentle,descortés,1,0,0,0.72
+ungentlemanly,poco caballeroso,1,0,0,0.73
+ungiving,indiferente,1,0,0,0.28
+ungodly,impío,0,0,0,0.79
+ungovernable,ingobernable,1,0,0,0.69
+ungraceful,feo,1,0,0,0.88
+ungracious,poco gracioso,1,1,0,0.46
+ungrateful,desagradecido,0,0,0,0.96
+ungregarious,desagregado,1,0,0,0.35
+ungrudging,de buena gana,1,0,0,0.45
+unguarded,sin defensa,1,0,0,0.61
+unhappy,infeliz,0,0,0,0.9
+unhardened,sin endurecer,1,0,0,0.49
+unhardy,descortés,1,0,0,0.69
+unharming,inofensivo,1,0,0,0.89
+unhasty,imprudente,1,0,0,0.81
+unhealthy,insalubre,0,0,0,0.99
+unheedful,descuidado,1,0,0,0.59
+unhelpful,inútil,1,0,0,0.87
+unheroic,poco heroico,1,0,0,0.83
+unholy,impío,0,0,0,0.59
+unhurried,sin prisas,1,0,0,0.88
+unimaginative,no imaginativo,1,1,0,0.92
+unimpassionate,desapasionado,1,0,0,0.44
+unimpatient,impaciente,1,0,0,0.44
+unimpeachable,intachable,0,0,0,0.75
+unimpressed,no impresionado,0,0,0,0.93
+unimpressible,Impresionante,1,0,0,0.21
+unimpressionable,impasible,1,0,0,0.84
+unindulgent,poco indulgente,1,0,0,0.49
+unindustrious,poco indigno,1,0,0,0.7
+uninformed,no informado,1,0,0,0.94
+uningenious,poco sincero,1,0,0,0.66
+uninhibited,desinhibido,1,1,0,0.79
+uninquiring,no indagar,1,0,0,0.74
+uninquisitive,poco curioso,1,1,0,0.78
+uninspired,no inspirado,0,0,0,0.89
+unintellectual,no intelectual,1,1,0,0.87
+unintelligent,poco inteligente,1,1,0,0.91
+unintelligible,ininteligible,0,0,0,0.89
+uninterested,desinteresado,0,0,0,0.7
+unintrospective,introspectivo,1,0,0,0.76
+uninventive,poco inventivo,1,0,0,0.93
+uninvestigative,poco investigador,1,0,0,0.69
+unique,único,0,0,0,0.99
+unjealous,sin celos,1,0,0,0.7
+unjoyful,infeliz,1,0,0,0.96
+unkempt,desaliñado,0,0,0,0.93
+unkind,cruel,1,1,0,0.82
+unkindly,cruelmente,1,0,0,0.6
+unladylike,vulgar,1,0,0,0.94
+unlearned,indocto,1,0,0,0.87
+unliterary,no literario,1,0,0,0.74
+unlively,sin vida,1,0,0,0.86
+unloving,desamor,1,0,0,0.88
+unlucky,desafortunado,0,0,0,0.85
+unmaidenly,sin doncella,1,0,0,0.18
+unmalicious,deshonesto,1,0,0,0.86
+unmalleable,inconcebible,1,0,0,0.68
+unmanly,afeminado,1,0,0,0.92
+unmannered,descortés,1,0,0,0.92
+unmasculine,poco masculino,1,0,0,0.86
+unmeddling,desmedro,1,0,0,0.89
+unmeek,descorazonado,1,0,0,0.47
+unmelancholy,sin melancolía,1,0,0,0.66
+unmercenary,no mercenario,1,0,0,0.14
+unmerciful,despiadado,1,0,0,0.9
+unmerry,desalentar,1,0,0,0.81
+unmethodical,poco metódico,1,0,0,0.79
+unmild,desmayar,1,0,0,0.39
+unmindful,desconsiderado,1,0,0,0.79
+unmirthful,poco alegre,1,0,0,0.47
+unmodifiable,inmodificable,1,0,0,0.65
+unmoralizing,desmoralizador,1,0,0,0.45
+unmovable,inamovible,1,0,0,0.76
+unmusical,no musical,0,0,0,0.71
+unnatural,antinatural,0,0,0,0.63
+unneighborly,innecesariamente,1,0,0,0.7
+unniggardly,despreocupadamente,1,0,0,0.3
+unobliging,inocente,1,0,0,0.67
+unobservant,inobservante,1,1,0,0.9
+unobtrusive,discreto,1,0,0,0.79
+unoriginal,poco original,1,0,0,0.88
+unorthodox,heterodoxo,0,0,0,0.86
+unostentatious,sin ostentación,1,0,0,0.51
+unpardoning,indulgente,1,0,0,0.91
+unpartisan,no partidista,1,0,0,0.78
+unpatriotic,antipatriótico,0,0,0,0.96
+unpeaceable,insoportable,1,0,0,0.37
+unperceptive,perceptivo,1,0,0,0.53
+unpersonable,impersonal,1,0,0,0.85
+unpersuadable,imperdonable,1,0,0,0.79
+unpersuasive,poco convincente,1,0,0,0.9
+unphilanthropic,antifilantrópico,1,0,0,0.59
+unphilosophical,poco filosófico,1,0,0,0.49
+unpitying,sin compasión,1,0,0,0.74
+unpleasable,desagradable,1,0,0,0.83
+unpliable,incontrolable,1,0,0,0.45
+unpoised,desquiciado,1,0,0,0.77
+unpolished,sin pulir,1,0,0,0.84
+unpolite,descortés,1,0,0,0.74
+unpolitical,no político,1,0,0,0.88
+unpopular,impopular,0,0,0,0.87
+unpreaching,desembarazarse,1,0,0,0.35
+unpredictable,impredecible,1,1,0,0.93
+unpresuming,sin presumir,1,0,0,0.55
+unpretending,no pretendiente,1,0,0,0.55
+unpretentious,no pretencioso,1,0,0,0.78
+unprincipled,poco escrupuloso,1,0,0,0.76
+unproductive,improductivo,1,0,0,0.94
+unprofessional,no profesional,0,0,0,0.89
+unprogressive,poco progresivo,1,0,0,0.89
+unprovincial,no provincial,1,0,0,0.35
+unpunctual,impuntual,1,0,0,0.94
+unpurposed,sin propósito,1,0,0,0.84
+unquestioning,incondicional,1,0,0,0.81
+unrealistic,poco realista,1,0,0,0.85
+unreasonable,irrazonable,1,0,0,0.77
+unreasoning,irracional,1,0,0,0.83
+unreceptive,poco receptivo,1,0,0,0.87
+unrefined,sin refinar,1,0,0,0.86
+unreflective,irreflexivo,1,0,0,0.56
+unregulated,desregulado,0,0,0,0.92
+unreined,sin freno,1,0,0,0.84
+unrelaxing,relajante,1,0,0,0.75
+unrelenting,implacable,1,0,0,0.57
+unreliable,no fidedigno,1,1,0,0.99
+unreligious,poco religioso,1,0,0,0.76
+unremitting,incesante,0,0,0,0.65
+unrepressible,irreprimible,1,0,0,0.86
+unreproachful,irreprensible,1,0,0,0.46
+unreserved,no reservado,1,0,0,0.74
+unrespectful,irrespetuoso,1,0,0,0.62
+unresponsive,insensible,1,0,0,0.77
+unresting,inquietante,1,0,0,0.76
+unrestrainable,incontenible,1,0,0,0.72
+unrestrained,desenfrenado,1,1,0,0.96
+unrevealing,revelador,1,0,0,0.76
+unrevengeful,sin venganza,1,0,0,0.4
+unromantic,poco romántico,1,0,0,0.87
+unrude,descortés,1,0,0,0.13
+unruly,revoltoso,1,1,0,0.55
+unsaintly,lamentablemente,1,0,0,0.83
+unsanitary,antihigiénico,0,0,0,0.96
+unsatisfiable,insatisfactorio,1,0,0,0.87
+unsavory,desagradable,0,0,0,0.85
+unscholarly,poco erudito,1,0,0,0.93
+unschooled,deseducado,1,0,0,0.91
+unscientific,no científico,0,0,0,0.93
+unscornful,grosero,1,0,0,0.6
+unscrupulous,poco escrupuloso,1,1,0,0.82
+unsearching,anulando la búsqueda,1,0,0,0.38
+unselfconscious,inconsciente,1,0,0,0.73
+unselfish,altruista,1,1,0,0.91
+unsensual,insensible,0,0,0,0.82
+unsentimental,poco sentimental,1,0,0,0.86
+unsettled,inestable,0,0,0,0.72
+unsevere,inflexible,1,0,0,0.7
+unsexual,no sexual,0,0,0,0.71
+unshakable,inquebrantable,1,0,0,0.59
+unshrinking,sin encogerse,1,0,0,0.47
+unshy,desvergonzado,1,0,0,0.34
+unskeptical,poco escéptico,1,0,0,0.39
+unsly,desagradable,1,0,0,0.37
+unsmiling,serio,1,0,0,0.46
+unsociable,esquivo,1,1,0,0.85
+unsocial,insocial,1,0,0,0.75
+unsolemn,insolente,1,0,0,0.3
+unsolicitous,no solicitado,1,0,0,0.3
+unsophisticated,no sofisticado,1,1,0,0.79
+unsparing,despiadado,0,0,0,0.64
+unsparkling,deslumbrante,1,0,0,0.37
+unspeaking,sin hablar,1,0,0,0.8
+unspiritual,no espiritual,1,0,0,0.56
+unspontaneous,espontáneo,1,0,0,0.66
+unsportsmanlike,antideportivo,1,0,0,0.55
+unstable,inestable,1,1,0,0.88
+unsteadfast,inestable,1,0,0,0.5
+unsteady,inestable,0,0,0,0.67
+unstirrable,inquebrantable,1,0,0,0.67
+unstormy,tormentoso,1,0,0,0.45
+unstudied,espontáneo,0,0,0,0.84
+unstudious,despreocupado,1,0,0,0.46
+unsubduable,indiscutible,1,0,0,0.82
+unsubmissive,insumiso,1,0,0,0.76
+unsullied,inmaculado,0,0,0,0.8
+unsunny,desagradable,1,0,0,0.64
+unsure,inseguro,1,0,0,0.94
+unsuspecting,nada suspicaz,0,0,0,0.89
+unsuspicious,no sospechoso,1,0,0,0.46
+unswayable,inamovible,1,0,0,0.94
+unswerving,inquebrantable,1,0,0,0.71
+unsympathetic,no simpático,1,1,0,0.92
+unsystematic,no sistemático,1,0,0,0.63
+untalkative,poco hablador,1,0,0,0.94
+untamable,indomable,1,0,0,0.94
+untamed,salvaje,0,0,0,0.9
+untasteful,desagradable,1,0,0,0.7
+untaught,no enseñado,1,0,0,0.87
+unteachable,inalcanzable,1,0,0,0.91
+untemptable,imbatible,1,0,0,0.88
+untender,untender,1,0,0,0.58
+untheatrical,poco teatral,1,0,0,0.6
+unthinking,irreflexivo,1,0,0,0.69
+unthorough,imprudente,1,0,0,0.73
+unthrifty,desastroso,1,0,0,0.73
+untidy,desordenado,1,0,0,0.92
+untiring,incansable,1,0,0,0.67
+untoward,adverso,0,0,0,0.42
+untrained,inexperto,1,0,0,0.94
+untransparent,poco transparente,1,0,0,0.52
+untrustful,desconfiado,1,0,0,0.73
+untrustworthy,indigno de confianza,1,0,0,0.8
+untruthful,mentiroso,1,0,0,0.91
+untutored,indocto,1,0,0,0.82
+unusual,raro,0,0,0,0.78
+unvacillating,inmutable,1,0,0,0.4
+unvain,desvanecerse,1,0,0,0.52
+unvaliant,desvalido,1,0,0,0.54
+unvarying,invariable,1,0,0,0.8
+unventurous,poco aventurero,1,0,0,0.73
+unversed,no hablado,1,0,0,0.74
+unvigilant,poco vigilante,1,0,0,0.54
+unvigorous,poco vigoroso,1,0,0,0.69
+unvindictive,poco vengativo,1,0,0,0.83
+unvisioned,desapercibido,1,0,0,0.71
+unvocal,unvocal,1,0,0,0.77
+unvoluptuous,poco voluptuoso,1,0,0,0.87
+unwarlike,poco belicoso,1,0,0,0.48
+unwary,incauto,1,0,0,0.72
+unwasteful,inútil,1,0,0,0.86
+unwatchful,desatento,1,0,0,0.84
+unwavering,inquebrantable,1,0,0,0.88
+unwholesome,insalubre,0,0,0,0.72
+unwild,desenvolverse,1,0,0,0.21
+unwillful,involuntario,1,0,0,0.33
+unwilling,reacio,0,0,0,0.86
+unwily,imprudentemente,1,0,0,0.25
+unwise,imprudente,1,0,0,0.88
+unwitty,inconsciente,1,0,0,0.71
+unworldly,espiritual,1,0,0,0.62
+unyielding,inflexible,1,0,0,0.83
+unzealous,poco celoso,1,0,0,0.52
+uplifting,edificante,0,0,0,0.96
+upright,vertical,0,0,0,0.71
+upset,disgustado,0,0,0,0.85
+urbane,urbano,1,0,0,0.29
+useful,útil,0,0,0,0.81
+usurping,usurpando,0,0,0,0.75
+utilitarian,utilitario,0,0,0,0.63
+vacuous,vacío,0,0,0,0.54
+vague,vago,1,1,0,0.94
+vain,vano,1,1,0,0.88
+vainglorious,vanaglorioso,0,0,0,0.69
+valiant,valiente,1,0,0,0.92
+valorous,valoroso,1,0,0,0.76
+valuable,valioso,0,0,0,0.91
+vapid,insípido,0,0,0,0.43
+variable,variable,1,0,0,0.86
+vegetative,vegetativo,0,0,0,0.64
+vehement,vehemente,0,0,0,0.61
+venal,venal,0,0,0,0.13
+vengeful,vengativo,1,0,0,0.99
+venturesome,audaz,1,0,0,0.87
+venturous,venturoso,1,0,0,0.85
+verbal,verbal,1,1,0,0.92
+verbose,verboso,1,0,0,0.85
+versatile,versátil,1,1,0,0.95
+vibrant,vibrante,1,0,0,0.83
+vicious,vicioso,0,0,0,0.61
+vigilant,vigilante,0,0,0,0.94
+vigorless,sin vigor,1,0,0,0.7
+vigorous,vigoroso,1,1,0,0.88
+vindictive,vengativo,1,1,0,0.9
+violent,violento,1,0,0,0.79
+virginal,virginal,0,0,0,0.85
+virile,viril,1,0,0,0.4
+virtuous,virtuoso,0,0,0,0.78
+visionary,visionario,1,0,0,0.99
+vital,vital,0,0,0,0.56
+vitriolic,vitriólico,0,0,0,0.5
+vituperative,vituperador,0,0,0,0.29
+vivacious,vivaz,1,1,0,0.84
+vivid,vívido,1,0,0,0.85
+vocal,vocal,1,0,0,0.8
+vociferous,vociferante,0,0,0,0.63
+volatile,volátil,1,1,0,0.96
+volcanic,volcánico,1,0,0,0.74
+voluptuous,voluptuoso,1,0,0,0.88
+vulgar,vulgar,0,0,0,0.76
+vulnerable,vulnerable,0,0,0,0.91
+waggish,chacotero,0,0,0,0.22
+warlike,belicoso,1,0,0,0.5
+warm,cálido,1,1,0,0.68
+warm-hearted,de buen corazón,1,0,0,0.95
+warmthless,sin calor,1,0,0,0.45
+wary,cauteloso,1,1,0,0.9
+wasteful,antieconómico,1,1,0,0.34
+watchful,vigilante,0,0,0,0.99
+weak,débil,0,0,0,0.93
+weak-hearted,de corazón débil,1,0,0,0.88
+weak-kneed,de rodillas débiles,1,0,0,0.69
+weak-minded,de mente débil,0,0,0,0.87
+weak-spirited,de espíritu débil,1,0,0,0.66
+wealthy,adinerado,0,0,0,0.96
+weariless,cansado,1,1,0,0.47
+weepy,llorón,1,0,0,0.83
+weird,extraño,0,0,0,0.88
+well,bien,0,0,0,0.8
+well-adjusted,bien ajustado,0,0,0,0.8
+well-bred,bien educado,0,0,0,0.84
+well-known,bien conocido,0,0,0,0.85
+well-liked,muy querido,0,0,0,0.98
+well-mannered,educado,1,0,0,0.94
+well-read,bien leído,1,0,0,0.95
+well-spoken,bien hablado,1,0,0,0.93
+well-to-do,acomodado,0,0,0,0.82
+wheedling,engatusar,0,0,0,0.45
+whimsical,caprichoso,1,0,0,0.57
+whiny,quejica,1,0,0,0.92
+whorish,puta,0,0,0,0.65
+wicked,malvado,0,0,0,0.94
+wide-awake,despierto por completo,1,0,0,0.97
+wifely,esposa,0,0,0,0.92
+wild,salvaje,1,0,0,0.88
+willful,deliberado,1,0,0,0.4
+willing,dispuesto,0,0,0,0.93
+wily,astuto,1,0,0,0.42
+wise,sabio,1,1,0,0.84
+wishful,deseoso,1,0,0,0.9
+wishy-washy,deseoso,1,1,0,0.81
+wistful,anhelante,0,0,0,0.77
+withdrawing,retirarse,1,0,0,0.84
+withdrawn,retirado,1,1,0,0.74
+witless,tonto,1,0,0,0.83
+witty,ingenioso,1,1,1,0.98
+woeful,lamentable,0,0,0,0.54
+wolfish,lobo,0,0,0,0.55
+womanly,mujeril,1,0,0,0.95
+wonderful,maravilloso,0,0,0,0.81
+wordy,verboso,1,1,0,0.91
+world-weary,cansado del mundo,1,0,0,0.49
+worldly,mundano,1,1,0,0.88
+worldly-minded,mundano,1,0,0,0.66
+worldly-wise,sabio mundano,1,0,0,0.78
+worried,preocupado,0,0,0,0.97
+worriless,despreocupado,1,0,0,0.8
+worrying,preocupante,1,0,0,0.75
+worshipful,honorable,1,0,0,0.88
+worthy,valioso,0,0,0,0.62
+wry,torcido,0,0,0,0.76
+yammering,parloteando,0,0,0,0.92
+yappy,yappy,0,0,0,0.74
+yearning,anhelo,0,0,0,0.94
+yielding,flexible,0,0,0,0.7
+young,joven,0,0,0,0.96
+youthful,juvenil,0,0,0,0.99
+zany,loco,1,0,0,0.84
+zealless,desalmado,1,0,0,0.52
+zealous,celoso,1,1,0,0.76
+zestful,sabroso,1,0,0,0.78
